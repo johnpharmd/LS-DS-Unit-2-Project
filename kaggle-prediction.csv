@@ -1,4 +1,4 @@
-id, status_group
+id,status_group
 37098, functional
 14530, functional
 62607, functional
@@ -14356,9406 +14356,1483 @@ id, status_group
 18496, functional
 20751, functional
 21669, functional
-3880, functional
-32255, functional
-62462, functional
-14464, functional
-51001, functional
-6915, functional
-11505, functional
-71348, functional
-48909, functional
-58339, functional
-24961, functional
-29199, functional
-482, functional
-41553, functional
-46440, functional
-41229, functional
-19324, functional
-35053, functional
-48930, functional
-59923, functional
-31502, functional
-2996, functional
-2883, functional
-24921, functional
-56407, functional
-51622, functional
-6601, functional
-38454, functional
-43192, functional
-21062, functional
-49998, functional
-43328, functional
-41444, functional
-18473, functional
-42885, functional
-71282, functional
-59050, functional
-64973, functional
-35374, functional
-69706, functional
-23418, functional
-60562, functional
-8751, functional
-4310, functional
-37201, functional
-5238, functional
-54981, functional
-1513, functional
-43562, functional
-5508, functional
-71698, functional
-6849, functional
-63471, functional
-52197, functional
-5114, functional
-34573, functional
-66062, functional
-70243, functional
-56870, functional
-47208, functional
-46711, functional
-13009, functional
-40553, functional
-61732, functional
-52384, functional
-58008, functional
-71571, functional
-53297, functional
-33054, functional
-68193, functional
-45780, functional
-26215, functional
-47831, functional
-17676, functional
-2844, functional
-59744, functional
-50583, functional
-73098, functional
-68313, functional
-47448, functional
-61899, functional
-53307, functional
-13678, functional
-49425, functional
-65408, functional
-66953, functional
-462, functional
-63225, functional
-17154, functional
-39361, functional
-29426, functional
-72600, functional
-45469, functional
-35466, functional
-47623, functional
-25648, functional
-31413, functional
-40272, functional
-63046, functional
-32156, functional
-6420, functional
-25299, functional
-26974, functional
-72933, functional
-32360, functional
-55715, functional
-13257, functional
-64069, functional
-6229, functional
-47985, functional
-27974, functional
-59144, functional
-19970, functional
-73266, functional
-38430, functional
-1408, functional
-44305, functional
-68303, functional
-53747, functional
-6480, functional
-67314, functional
-57624, functional
-44489, functional
-9089, functional
-14360, functional
-36664, functional
-66870, functional
-60354, functional
-29865, functional
-18517, functional
-47953, functional
-31642, functional
-61401, functional
-5293, functional
-19957, functional
-10320, functional
-72976, functional
-32333, functional
-64463, functional
-52600, functional
-51294, functional
-14354, functional
-16570, functional
-7303, functional
-16996, functional
-20222, functional
-44120, functional
-70863, functional
-45753, functional
-25655, functional
-26639, functional
-13541, functional
-15335, functional
-36512, functional
-46695, functional
-69323, functional
-62157, functional
-52279, functional
-49298, functional
-14943, functional
-16757, functional
-50941, functional
-63518, functional
-25671, functional
-48153, functional
-13511, functional
-43064, functional
-34987, functional
-8209, functional
-71581, functional
-33824, functional
-49347, functional
-10452, functional
-70490, functional
-71485, functional
-4685, functional
-29305, functional
-3128, functional
-11852, functional
-18629, functional
-29487, functional
-42925, functional
-22106, functional
-44317, functional
-55766, functional
-40515, functional
-2828, functional
-37351, functional
-36671, functional
-28709, functional
-22446, functional
-13510, functional
-26924, functional
-70022, functional
-20825, functional
-16184, functional
-69452, functional
-2967, functional
-34629, functional
-72674, functional
-70474, functional
-36540, functional
-67386, functional
-72327, functional
-24261, functional
-26369, functional
-10886, functional
-41453, functional
-55997, functional
-32750, functional
-31124, functional
-19971, functional
-69396, functional
-15772, functional
-35529, functional
-26195, functional
-27958, functional
-45422, functional
-40338, functional
-8344, functional
-63455, functional
-20230, functional
-14081, functional
-47918, functional
-23925, functional
-2635, functional
-69950, functional
-47554, functional
-11968, functional
-17546, functional
-25408, functional
-4971, functional
-59226, functional
-27151, functional
-15544, functional
-23341, functional
-52329, functional
-35407, functional
-67671, functional
-62345, functional
-66560, functional
-40829, functional
-37865, functional
-3204, functional
-68660, functional
-33699, functional
-19812, functional
-49785, functional
-20684, functional
-53671, functional
-43015, functional
-14755, functional
-34569, functional
-68732, functional
-55300, functional
-24128, functional
-19847, functional
-40250, functional
-58182, functional
-11037, functional
-6904, functional
-51391, functional
-26783, functional
-66066, functional
-54885, functional
-52060, functional
-48790, functional
-61851, functional
-59155, functional
-46437, functional
-52320, functional
-235, functional
-12187, functional
-70586, functional
-6459, functional
-17290, functional
-6259, functional
-12227, functional
-22023, functional
-12396, functional
-47964, functional
-19456, functional
-36008, functional
-15882, functional
-53593, functional
-60089, functional
-15091, functional
-33314, functional
-1076, functional
-40502, functional
-71650, functional
-38736, functional
-18400, functional
-58201, functional
-63949, functional
-39250, functional
-4745, functional
-59269, functional
-16875, functional
-1346, functional
-5739, functional
-68351, functional
-55631, functional
-33487, functional
-72324, functional
-23999, functional
-58121, functional
-45795, functional
-18020, functional
-31303, functional
-2934, functional
-44015, functional
-72447, functional
-1610, functional
-55309, functional
-6116, functional
-11879, functional
-42003, functional
-72957, functional
-31675, functional
-7841, functional
-5172, functional
-49117, functional
-23932, functional
-57249, functional
-13058, functional
-10288, functional
-63060, functional
-5019, functional
-41012, functional
-61213, functional
-14199, functional
-23077, functional
-8424, functional
-57853, functional
-5827, functional
-41119, functional
-34674, functional
-57988, functional
-8000, functional
-32095, functional
-7690, functional
-61131, functional
-19057, functional
-11024, functional
-23888, functional
-6615, functional
-3094, functional
-46764, functional
-29046, functional
-42573, functional
-51215, functional
-1019, functional
-6911, functional
-19930, functional
-30224, functional
-49023, functional
-52619, functional
-35344, functional
-19576, functional
-4636, functional
-19886, functional
-33436, functional
-34663, functional
-3304, functional
-61472, functional
-63499, functional
-9090, functional
-40221, functional
-60251, functional
-62519, functional
-72565, functional
-44101, functional
-42988, functional
-66274, functional
-8387, functional
-43255, functional
-12797, functional
-26747, functional
-31132, functional
-44917, functional
-18192, functional
-40051, functional
-39441, functional
-9872, functional
-13954, functional
-6627, functional
-5645, functional
-46066, functional
-16336, functional
-58542, functional
-27924, functional
-45078, functional
-50832, functional
-64385, functional
-64432, functional
-47723, functional
-19031, functional
-40301, functional
-14880, functional
-19573, functional
-18737, functional
-63561, functional
-68851, functional
-50693, functional
-45113, functional
-3705, functional
-65156, functional
-21609, functional
-50256, functional
-62037, functional
-52533, functional
-25098, functional
-67338, functional
-16044, functional
-39204, functional
-52510, functional
-23889, functional
-26916, functional
-65074, functional
-38309, functional
-18678, functional
-70800, functional
-26748, functional
-21955, functional
-52055, functional
-37827, functional
-55320, functional
-51696, functional
-65207, functional
-2405, functional
-73390, functional
-3666, functional
-64333, functional
-560, functional
-57499, functional
-25555, functional
-32986, functional
-32277, functional
-38945, functional
-35721, functional
-55591, functional
-16221, functional
-62518, functional
-61327, functional
-7952, functional
-458, functional
-25578, functional
-42997, functional
-15172, functional
-72630, functional
-71955, functional
-1577, functional
-34879, functional
-37391, functional
-29573, functional
-72870, functional
-21186, functional
-46866, functional
-41167, functional
-70801, functional
-69330, functional
-1360, functional
-71550, functional
-43799, functional
-13442, functional
-10789, functional
-61658, functional
-73867, functional
-36162, functional
-4725, functional
-36642, functional
-42465, functional
-22288, functional
-53147, functional
-59622, functional
-63765, functional
-58749, functional
-59401, functional
-60664, functional
-3714, functional
-43879, functional
-57042, functional
-66146, functional
-17280, functional
-71299, functional
-25131, functional
-57474, functional
-31032, functional
-52791, functional
-32622, functional
-69776, functional
-46705, functional
-33935, functional
-49654, functional
-39287, functional
-60510, functional
-24259, functional
-52400, functional
-16065, functional
-3435, functional
-74082, functional
-70165, functional
-66606, functional
-31416, functional
-43408, functional
-10402, functional
-24646, functional
-62130, functional
-59561, functional
-4889, functional
-18010, functional
-35739, functional
-54742, functional
-73366, functional
-24930, functional
-30022, functional
-51072, functional
-51330, functional
-27662, functional
-46463, functional
-44238, functional
-33948, functional
-21289, functional
-63923, functional
-44204, functional
-64481, functional
-24735, functional
-17515, functional
-16450, functional
-58962, functional
-46184, functional
-3590, functional
-7046, functional
-27977, functional
-65599, functional
-28051, functional
-22470, functional
-66258, functional
-17065, functional
-56984, functional
-12067, functional
-40773, functional
-68901, functional
-70629, functional
-53781, functional
-58013, functional
-55228, functional
-23928, functional
-48696, functional
-24519, functional
-47589, functional
-60768, functional
-35158, functional
-14244, functional
-65292, functional
-9035, functional
-13185, functional
-33698, functional
-39657, functional
-51819, functional
-35577, functional
-9314, functional
-27816, functional
-49893, functional
-8894, functional
-2055, functional
-66995, functional
-59550, functional
-72940, functional
-32188, functional
-30505, functional
-72435, functional
-43655, functional
-3238, functional
-66572, functional
-10555, functional
-14765, functional
-28820, functional
-1185, functional
-37177, functional
-24174, functional
-57360, functional
-4314, functional
-34044, functional
-40664, functional
-937, functional
-37260, functional
-19131, functional
-55115, functional
-16980, functional
-40815, functional
-51554, functional
-73919, functional
-66147, functional
-10631, functional
-0, functional
-32955, functional
-24736, functional
-12390, functional
-557, functional
-11030, functional
-59957, functional
-10637, functional
-31127, functional
-28517, functional
-24235, functional
-45979, functional
-40292, functional
-12130, functional
-1321, functional
-52889, functional
-68565, functional
-56084, functional
-34702, functional
-43465, functional
-47367, functional
-44625, functional
-16589, functional
-59496, functional
-21751, functional
-21411, functional
-55627, functional
-35305, functional
-22908, functional
-488, functional
-40551, functional
-7076, functional
-41592, functional
-38631, functional
-43552, functional
-37867, functional
-52061, functional
-48735, functional
-55408, functional
-65922, functional
-50934, functional
-21860, functional
-45274, functional
-45048, functional
-59271, functional
-34992, functional
-2423, functional
-14874, functional
-40446, functional
-7376, functional
-27767, functional
-20878, functional
-2453, functional
-70654, functional
-53716, functional
-54114, functional
-32858, functional
-46609, functional
-50206, functional
-23389, functional
-31900, functional
-15842, functional
-62985, functional
-31371, functional
-34200, functional
-56041, functional
-12964, functional
-3662, functional
-12899, functional
-16043, functional
-56500, functional
-55251, functional
-15357, functional
-4657, functional
-29948, functional
-21073, functional
-17648, functional
-1196, functional
-43320, functional
-46090, functional
-62894, functional
-70744, functional
-17631, functional
-52668, functional
-6921, functional
-70815, functional
-68331, functional
-44135, functional
-29940, functional
-40636, functional
-50574, functional
-60687, functional
-49313, functional
-20958, functional
-15029, functional
-38436, functional
-34006, functional
-40706, functional
-62014, functional
-41630, functional
-10860, functional
-46970, functional
-4441, functional
-850, functional
-33869, functional
-19247, functional
-49463, functional
-63240, functional
-18367, functional
-31439, functional
-50408, functional
-55282, functional
-51687, functional
-19676, functional
-13500, functional
-25116, functional
-22077, functional
-47470, functional
-27, functional
-45808, functional
-18335, functional
-31860, functional
-15806, functional
-12724, functional
-326, functional
-39273, functional
-33866, functional
-46245, functional
-33476, functional
-51719, functional
-24701, functional
-72718, functional
-49995, functional
-26476, functional
-21242, functional
-14847, functional
-23896, functional
-47774, functional
-7130, functional
-30007, functional
-45379, functional
-26991, functional
-599, functional
-48030, functional
-27796, functional
-46868, functional
-41520, functional
-68899, functional
-27836, functional
-49984, functional
-10893, functional
-47119, functional
-30341, functional
-8565, functional
-48150, functional
-25403, functional
-39461, functional
-59928, functional
-38517, functional
-54864, functional
-47342, functional
-73873, functional
-68235, functional
-7360, functional
-74048, functional
-35572, functional
-21902, functional
-49098, functional
-42135, functional
-9679, functional
-40677, functional
-46400, functional
-54787, functional
-6989, functional
-11915, functional
-59984, functional
-15524, functional
-30106, functional
-51299, functional
-50095, functional
-35113, functional
-59891, functional
-62413, functional
-6064, functional
-12697, functional
-19090, functional
-41447, functional
-27374, functional
-33335, functional
-13711, functional
-515, functional
-45505, functional
-61943, functional
-73278, functional
-45107, functional
-63860, functional
-50200, functional
-70522, functional
-45625, functional
-65761, functional
-28295, functional
-8251, functional
-66605, functional
-28092, functional
-40699, functional
-46495, functional
-122, functional
-72666, functional
-39212, functional
-25215, functional
-44513, functional
-9001, functional
-13779, functional
-58266, functional
-60528, functional
-71714, functional
-59095, functional
-5193, functional
-44555, functional
-34305, functional
-52231, functional
-27496, functional
-48330, functional
-20361, functional
-67522, functional
-56405, functional
-61993, functional
-36711, functional
-483, functional
-62671, functional
-35408, functional
-27295, functional
-41215, functional
-24451, functional
-48552, functional
-68533, functional
-6851, functional
-15515, functional
-5216, functional
-39314, functional
-9965, functional
-37898, functional
-25887, functional
-39011, functional
-62654, functional
-64983, functional
-57529, functional
-61171, functional
-71824, functional
-55642, functional
-61729, functional
-72082, functional
-3582, functional
-73187, functional
-67427, functional
-67006, functional
-11097, functional
-63543, functional
-63855, functional
-49642, functional
-68455, functional
-29877, functional
-65549, functional
-53984, functional
-2183, functional
-44258, functional
-10901, functional
-55936, functional
-34593, functional
-10764, functional
-52121, functional
-68444, functional
-57207, functional
-5229, functional
-44228, functional
-65009, functional
-17236, functional
-32148, functional
-59272, functional
-26855, functional
-63126, functional
-68727, functional
-59633, functional
-64140, functional
-18148, functional
-48896, functional
-60601, functional
-10606, functional
-655, functional
-253, functional
-24950, functional
-7247, functional
-19344, functional
-1126, functional
-67710, functional
-39124, functional
-36042, functional
-3873, functional
-17187, functional
-39704, functional
-6670, functional
-12185, functional
-68592, functional
-73379, functional
-43917, functional
-62296, functional
-33890, functional
-25713, functional
-39427, functional
-33540, functional
-47879, functional
-18329, functional
-42452, functional
-12294, functional
-56532, functional
-62720, functional
-72140, functional
-30894, functional
-6381, functional
-66638, functional
-71509, functional
-22322, functional
-70732, functional
-36075, functional
-57151, functional
-32131, functional
-14272, functional
-26678, functional
-11197, functional
-34337, functional
-30907, functional
-51088, functional
-45851, functional
-35990, functional
-19851, functional
-41585, functional
-53442, functional
-19977, functional
-31466, functional
-68520, functional
-32952, functional
-14978, functional
-33934, functional
-31562, functional
-24633, functional
-44219, functional
-17467, functional
-71677, functional
-17585, functional
-33768, functional
-31227, functional
-62129, functional
-51166, functional
-34894, functional
-54929, functional
-53548, functional
-68014, functional
-54601, functional
-52298, functional
-45984, functional
-68495, functional
-39001, functional
-37280, functional
-1092, functional
-73076, functional
-2270, functional
-39816, functional
-52724, functional
-61021, functional
-25289, functional
-25923, functional
-14798, functional
-29954, functional
-26927, functional
-12431, functional
-13143, functional
-35619, functional
-49744, functional
-64885, functional
-53710, functional
-9309, functional
-11152, functional
-33944, functional
-22183, functional
-45967, functional
-34244, functional
-3074, functional
-39642, functional
-6184, functional
-13593, functional
-36699, functional
-27011, functional
-43801, functional
-37738, functional
-71678, functional
-15967, functional
-24534, functional
-984, functional
-9511, functional
-73284, functional
-39717, functional
-29051, functional
-57307, functional
-61358, functional
-62189, functional
-42377, functional
-51946, functional
-35914, functional
-13839, functional
-55148, functional
-59632, functional
-24142, functional
-40778, functional
-61150, functional
-55709, functional
-13776, functional
-35032, functional
-18914, functional
-53101, functional
-15656, functional
-56150, functional
-64909, functional
-25543, functional
-44601, functional
-17046, functional
-73765, functional
-17736, functional
-10447, functional
-51932, functional
-2483, functional
-68812, functional
-54987, functional
-35811, functional
-33303, functional
-34389, functional
-52054, functional
-18134, functional
-62133, functional
-6553, functional
-7131, functional
-64907, functional
-50040, functional
-26093, functional
-19629, functional
-49456, functional
-68496, functional
-72367, functional
-16831, functional
-9589, functional
-746, functional
-56892, functional
-57697, functional
-42422, functional
-19152, functional
-51693, functional
-61266, functional
-3408, functional
-61666, functional
-38016, functional
-59286, functional
-54565, functional
-54457, functional
-825, functional
-18994, functional
-69786, functional
-51954, functional
-61314, functional
-10317, functional
-37764, functional
-16140, functional
-18614, functional
-65254, functional
-33776, functional
-28102, functional
-64107, functional
-63701, functional
-52026, functional
-8165, functional
-60879, functional
-3366, functional
-21645, functional
-29603, functional
-35068, functional
-562, functional
-38241, functional
-62697, functional
-12335, functional
-20470, functional
-13534, functional
-27832, functional
-5344, functional
-30777, functional
-25475, functional
-1229, functional
-37279, functional
-35276, functional
-62736, functional
-44889, functional
-61275, functional
-25569, functional
-31948, functional
-8885, functional
-44924, functional
-35589, functional
-61382, functional
-21685, functional
-46638, functional
-40604, functional
-63693, functional
-46773, functional
-62403, functional
-64429, functional
-48206, functional
-60782, functional
-3214, functional
-58505, functional
-27599, functional
-10464, functional
-7326, functional
-52195, functional
-8585, functional
-53103, functional
-7803, functional
-66329, functional
-22960, functional
-67349, functional
-49029, functional
-70284, functional
-29047, functional
-35152, functional
-63595, functional
-15103, functional
-43351, functional
-29074, functional
-20709, functional
-60640, functional
-29923, functional
-55935, functional
-3477, functional
-18626, functional
-69488, functional
-46046, functional
-67280, functional
-46797, functional
-53354, functional
-66020, functional
-34546, functional
-7530, functional
-22857, functional
-63830, functional
-72621, functional
-51119, functional
-72110, functional
-10895, functional
-68215, functional
-10250, functional
-11961, functional
-34406, functional
-73849, functional
-736, functional
-57131, functional
-28558, functional
-63605, functional
-2514, functional
-64531, functional
-64219, functional
-41031, functional
-10358, functional
-48914, functional
-39192, functional
-41123, functional
-51519, functional
-50339, functional
-25297, functional
-40475, functional
-24654, functional
-45470, functional
-17427, functional
-5987, functional
-64982, functional
-55040, functional
-47813, functional
-17817, functional
-71339, functional
-51067, functional
-20271, functional
-19133, functional
-33661, functional
-9365, functional
-50240, functional
-27201, functional
-34195, functional
-25605, functional
-66331, functional
-6330, functional
-68859, functional
-13168, functional
-66913, functional
-70098, functional
-61905, functional
-70893, functional
-65255, functional
-51319, functional
-15350, functional
-17661, functional
-3821, functional
-71351, functional
-41298, functional
-9873, functional
-8603, functional
-34741, functional
-48890, functional
-44525, functional
-50413, functional
-65956, functional
-33458, functional
-62903, functional
-15006, functional
-38043, functional
-33120, functional
-63138, functional
-1999, functional
-4910, functional
-31411, functional
-15495, functional
-55496, functional
-27774, functional
-51086, functional
-23439, functional
-3937, functional
-16672, functional
-55197, functional
-3330, functional
-22875, functional
-68183, functional
-6367, functional
-67768, functional
-43907, functional
-10248, functional
-71496, functional
-62489, functional
-43620, functional
-10984, functional
-30433, functional
-36381, functional
-17883, functional
-5996, functional
-60628, functional
-8120, functional
-24565, functional
-60402, functional
-21214, functional
-53534, functional
-16604, functional
-73236, functional
-33450, functional
-2956, functional
-14927, functional
-6037, functional
-28548, functional
-5336, functional
-39536, functional
-57394, functional
-1548, functional
-14524, functional
-28441, functional
-47018, functional
-6253, functional
-13635, functional
-11066, functional
-61664, functional
-51545, functional
-55460, functional
-46169, functional
-72832, functional
-36399, functional
-15864, functional
-59478, functional
-42441, functional
-24600, functional
-23568, functional
-52017, functional
-9914, functional
-9797, functional
-44510, functional
-5329, functional
-2687, functional
-43323, functional
-29032, functional
-9485, functional
-19104, functional
-63472, functional
-42246, functional
-729, functional
-64368, functional
-53494, functional
-52172, functional
-26735, functional
-57860, functional
-59038, functional
-1455, functional
-46892, functional
-53884, functional
-27064, functional
-36739, functional
-58043, functional
-22733, functional
-18290, functional
-44048, functional
-8570, functional
-33304, functional
-60208, functional
-18788, functional
-56134, functional
-34918, functional
-13588, functional
-16946, functional
-70240, functional
-55181, functional
-53300, functional
-59027, functional
-72815, functional
-73178, functional
-3596, functional
-17004, functional
-60838, functional
-10246, functional
-44563, functional
-63258, functional
-72581, functional
-72365, functional
-5484, functional
-28048, functional
-57887, functional
-7847, functional
-39235, functional
-2110, functional
-14029, functional
-18060, functional
-56452, functional
-614, functional
-35971, functional
-54611, functional
-25386, functional
-44522, functional
-1874, functional
-1902, functional
-61672, functional
-43168, functional
-55962, functional
-64726, functional
-31747, functional
-70741, functional
-9241, functional
-46848, functional
-63699, functional
-62323, functional
-18456, functional
-68069, functional
-52335, functional
-43846, functional
-35143, functional
-55032, functional
-49801, functional
-2391, functional
-40724, functional
-63696, functional
-54536, functional
-47766, functional
-26774, functional
-37667, functional
-34797, functional
-35856, functional
-22636, functional
-50334, functional
-48031, functional
-47241, functional
-48278, functional
-23038, functional
-18070, functional
-18001, functional
-25017, functional
-74199, functional
-68318, functional
-55424, functional
-35475, functional
-8654, functional
-37255, functional
-32397, functional
-5043, functional
-40281, functional
-9799, functional
-65861, functional
-72764, functional
-54551, functional
-28619, functional
-70634, functional
-12864, functional
-6718, functional
-38602, functional
-20654, functional
-1733, functional
-11503, functional
-28027, functional
-36415, functional
-18701, functional
-11615, functional
-250, functional
-3674, functional
-55619, functional
-31115, functional
-66127, functional
-31197, functional
-68740, functional
-15751, functional
-72809, functional
-55859, functional
-55889, functional
-25461, functional
-36467, functional
-62774, functional
-72586, functional
-59087, functional
-34239, functional
-55145, functional
-34093, functional
-53959, functional
-51754, functional
-32783, functional
-24385, functional
-52033, functional
-41662, functional
-15723, functional
-31493, functional
-48078, functional
-46373, functional
-73719, functional
-13513, functional
-6027, functional
-46722, functional
-11055, functional
-43011, functional
-63017, functional
-21009, functional
-34874, functional
-30862, functional
-52586, functional
-34238, functional
-56933, functional
-14165, functional
-28716, functional
-18202, functional
-18889, functional
-56182, functional
-53961, functional
-61864, functional
-21397, functional
-34846, functional
-14819, functional
-23081, functional
-48912, functional
-32456, functional
-71070, functional
-16784, functional
-52219, functional
-14837, functional
-48366, functional
-61271, functional
-72409, functional
-32458, functional
-37119, functional
-17177, functional
-72354, functional
-25818, functional
-20110, functional
-36862, functional
-10389, functional
-6340, functional
-61516, functional
-37962, functional
-21146, functional
-26338, functional
-69669, functional
-39606, functional
-19753, functional
-35211, functional
-63523, functional
-1713, functional
-28540, functional
-10757, functional
-71731, functional
-71919, functional
-34047, functional
-39281, functional
-73466, functional
-60657, functional
-48741, functional
-33920, functional
-53384, functional
-37950, functional
-59073, functional
-56325, functional
-47677, functional
-12700, functional
-4808, functional
-16965, functional
-27363, functional
-70338, functional
-23781, functional
-54344, functional
-27907, functional
-67555, functional
-49736, functional
-52928, functional
-3114, functional
-52205, functional
-47585, functional
-15134, functional
-60926, functional
-3335, functional
-7929, functional
-15123, functional
-27387, functional
-3195, functional
-37241, functional
-55009, functional
-40349, functional
-6051, functional
-32070, functional
-60464, functional
-70076, functional
-17491, functional
-50203, functional
-16097, functional
-51963, functional
-27314, functional
-58171, functional
-14192, functional
-62876, functional
-30459, functional
-68919, functional
-50222, functional
-46297, functional
-55539, functional
-48239, functional
-43266, functional
-26279, functional
-64224, functional
-1583, functional
-69424, functional
-25390, functional
-43894, functional
-18097, functional
-11343, functional
-14499, functional
-54129, functional
-190, functional
-29641, functional
-35366, functional
-68548, functional
-50666, functional
-45667, functional
-65935, functional
-24578, functional
-64566, functional
-63844, functional
-24966, functional
-43230, functional
-6399, functional
-40431, functional
-17395, functional
-50378, functional
-2792, functional
-49782, functional
-2074, functional
-48253, functional
-52562, functional
-49352, functional
-22544, functional
-67477, functional
-51100, functional
-9322, functional
-8202, functional
-30127, functional
-41073, functional
-59760, functional
-56528, functional
-33044, functional
-37653, functional
-37969, functional
-57461, functional
-37989, functional
-34297, functional
-57537, functional
-47977, functional
-64174, functional
-67704, functional
-47314, functional
-32457, functional
-28740, functional
-4262, functional
-52521, functional
-23287, functional
-25719, functional
-55746, functional
-24290, functional
-43543, functional
-68703, functional
-15563, functional
-42707, functional
-48013, functional
-57565, functional
-7745, functional
-57750, functional
-43498, functional
-23767, functional
-24167, functional
-24946, functional
-40310, functional
-35895, functional
-37162, functional
-64160, functional
-44253, functional
-44735, functional
-13874, functional
-2896, functional
-5045, functional
-43754, functional
-47617, functional
-47506, functional
-28662, functional
-42049, functional
-55301, functional
-43673, functional
-32877, functional
-39399, functional
-24943, functional
-36920, functional
-4666, functional
-49478, functional
-32778, functional
-68947, functional
-47981, functional
-46534, functional
-18680, functional
-11179, functional
-49661, functional
-22748, functional
-67554, functional
-21137, functional
-11485, functional
-13637, functional
-39752, functional
-7227, functional
-16266, functional
-62614, functional
-36204, functional
-70619, functional
-29795, functional
-56081, functional
-7570, functional
-46902, functional
-48860, functional
-72878, functional
-19510, functional
-59307, functional
-68339, functional
-57749, functional
-20871, functional
-57189, functional
-3569, functional
-56801, functional
-1894, functional
-50729, functional
-43473, functional
-73770, functional
-46856, functional
-50778, functional
-48545, functional
-6547, functional
-61085, functional
-7164, functional
-8933, functional
-43795, functional
-53885, functional
-13988, functional
-34632, functional
-30508, functional
-1089, functional
-622, functional
-18730, functional
-13752, functional
-19585, functional
-25637, functional
-4372, functional
-20843, functional
-56578, functional
-1041, functional
-11165, functional
-17330, functional
-15061, functional
-34388, functional
-64622, functional
-4880, functional
-23529, functional
-51124, functional
-51403, functional
-50029, functional
-25544, functional
-46523, functional
-10779, functional
-14051, functional
-21505, functional
-53742, functional
-63852, functional
-22607, functional
-1573, functional
-35594, functional
-33559, functional
-51101, functional
-39449, functional
-49246, functional
-45437, functional
-51906, functional
-54201, functional
-60128, functional
-8101, functional
-3581, functional
-4031, functional
-21320, functional
-827, functional
-17557, functional
-25840, functional
-1829, functional
-37272, functional
-43583, functional
-25128, functional
-73832, functional
-22409, functional
-21284, functional
-50803, functional
-62975, functional
-5071, functional
-15363, functional
-17859, functional
-47330, functional
-22686, functional
-31457, functional
-59460, functional
-28942, functional
-1061, functional
-20901, functional
-15141, functional
-26408, functional
-64708, functional
-33469, functional
-61934, functional
-73232, functional
-8208, functional
-63363, functional
-1509, functional
-21337, functional
-68473, functional
-1116, functional
-12600, functional
-52824, functional
-72011, functional
-38529, functional
-55919, functional
-38603, functional
-48075, functional
-49435, functional
-36338, functional
-23994, functional
-71367, functional
-44096, functional
-43043, functional
-27488, functional
-47540, functional
-66757, functional
-50887, functional
-31898, functional
-72196, functional
-52584, functional
-53704, functional
-12204, functional
-60175, functional
-30587, functional
-18773, functional
-12679, functional
-68805, functional
-41836, functional
-17558, functional
-57866, functional
-70260, functional
-15325, functional
-20626, functional
-8336, functional
-3034, functional
-12805, functional
-26886, functional
-66794, functional
-3896, functional
-71501, functional
-33220, functional
-57192, functional
-59697, functional
-27462, functional
-35515, functional
-63713, functional
-52962, functional
-73322, functional
-51451, functional
-15743, functional
-54911, functional
-58075, functional
-50845, functional
-11858, functional
-9475, functional
-67940, functional
-26327, functional
-53042, functional
-50443, functional
-66397, functional
-26721, functional
-57085, functional
-27752, functional
-71700, functional
-32340, functional
-18125, functional
-55079, functional
-40286, functional
-4617, functional
-2588, functional
-17452, functional
-49950, functional
-45794, functional
-73596, functional
-60650, functional
-27209, functional
-13673, functional
-43149, functional
-71878, functional
-49709, functional
-32517, functional
-17908, functional
-63309, functional
-10699, functional
-73191, functional
-11619, functional
-68593, functional
-46349, functional
-13199, functional
-46664, functional
-26573, functional
-38943, functional
-19085, functional
-9723, functional
-43033, functional
-47641, functional
-3631, functional
-71394, functional
-33623, functional
-61425, functional
-12024, functional
-35864, functional
-21101, functional
-28656, functional
-71843, functional
-16098, functional
-15546, functional
-3692, functional
-52654, functional
-5722, functional
-55398, functional
-24749, functional
-73786, functional
-36140, functional
-55969, functional
-29701, functional
-72480, functional
-47222, functional
-9869, functional
-72070, functional
-73084, functional
-20416, functional
-25402, functional
-37363, functional
-9014, functional
-59829, functional
-41019, functional
-2312, functional
-59225, functional
-11899, functional
-71583, functional
-15416, functional
-19252, functional
-67473, functional
-31263, functional
-24591, functional
-43656, functional
-29091, functional
-39972, functional
-40637, functional
-62202, functional
-69694, functional
-43500, functional
-21928, functional
-69462, functional
-51344, functional
-16567, functional
-48240, functional
-17576, functional
-30377, functional
-47984, functional
-45558, functional
-25447, functional
-26858, functional
-31391, functional
-65138, functional
-50965, functional
-66954, functional
-45397, functional
-53183, functional
-71681, functional
-52793, functional
-36964, functional
-37439, functional
-34687, functional
-36164, functional
-41861, functional
-6779, functional
-67644, functional
-49493, functional
-21650, functional
-24840, functional
-40102, functional
-62459, functional
-65798, functional
-10633, functional
-6865, functional
-58241, functional
-38613, functional
-52742, functional
-53913, functional
-65394, functional
-29964, functional
-48504, functional
-51137, functional
-24631, functional
-44203, functional
-59571, functional
-17070, functional
-46193, functional
-47260, functional
-1668, functional
-25485, functional
-53932, functional
-6117, functional
-27808, functional
-59637, functional
-31496, functional
-10457, functional
-71881, functional
-31853, functional
-41755, functional
-17462, functional
-47850, functional
-35253, functional
-16873, functional
-22473, functional
-49529, functional
-66045, functional
-14991, functional
-43169, functional
-56087, functional
-32236, functional
-41035, functional
-65598, functional
-46229, functional
-23076, functional
-55028, functional
-62253, functional
-31704, functional
-39940, functional
-33343, functional
-11803, functional
-9925, functional
-56631, functional
-33673, functional
-48028, functional
-1281, functional
-27232, functional
-37387, functional
-18876, functional
-37287, functional
-58655, functional
-46965, functional
-50247, functional
-38155, functional
-30327, functional
-11482, functional
-32672, functional
-32266, functional
-26445, functional
-68673, functional
-31730, functional
-66694, functional
-41004, functional
-53519, functional
-44897, functional
-42711, functional
-14450, functional
-684, functional
-11523, functional
-44436, functional
-2026, functional
-8148, functional
-17319, functional
-55964, functional
-66106, functional
-73806, functional
-56607, functional
-66271, functional
-31408, functional
-67282, functional
-43645, functional
-55060, functional
-50523, functional
-15895, functional
-61476, functional
-64605, functional
-68266, functional
-46590, functional
-64031, functional
-27044, functional
-14178, functional
-53376, functional
-4087, functional
-19564, functional
-69916, functional
-32640, functional
-24161, functional
-72742, functional
-38619, functional
-73318, functional
-245, functional
-41561, functional
-59206, functional
-4464, functional
-23745, functional
-56817, functional
-12712, functional
-42592, functional
-10613, functional
-26035, functional
-15509, functional
-65726, functional
-36859, functional
-72802, functional
-2455, functional
-58789, functional
-16657, functional
-35503, functional
-13316, functional
-27125, functional
-4539, functional
-61143, functional
-6442, functional
-22207, functional
-40220, functional
-47939, functional
-39218, functional
-32809, functional
-59849, functional
-7481, functional
-49787, functional
-33166, functional
-72088, functional
-50893, functional
-15443, functional
-59288, functional
-16566, functional
-19206, functional
-33396, functional
-21053, functional
-16055, functional
-19314, functional
-59336, functional
-21897, functional
-38381, functional
-3762, functional
-34260, functional
-33400, functional
-6312, functional
-29506, functional
-58014, functional
-72969, functional
-6527, functional
-41856, functional
-71887, functional
-62075, functional
-32645, functional
-66380, functional
-6583, functional
-55503, functional
-492, functional
-19991, functional
-40493, functional
-6164, functional
-50195, functional
-61539, functional
-68918, functional
-20169, functional
-42887, functional
-7817, functional
-28532, functional
-69283, functional
-38967, functional
-30029, functional
-66868, functional
-40965, functional
-31817, functional
-11572, functional
-35357, functional
-45720, functional
-24450, functional
-43313, functional
-6913, functional
-54357, functional
-40149, functional
-47345, functional
-47891, functional
-66809, functional
-4097, functional
-40162, functional
-260, functional
-42367, functional
-69224, functional
-40710, functional
-59025, functional
-47400, functional
-34404, functional
-63509, functional
-11711, functional
-36837, functional
-48867, functional
-26370, functional
-49277, functional
-41595, functional
-38546, functional
-25034, functional
-22334, functional
-50258, functional
-66666, functional
-25033, functional
-25445, functional
-2517, functional
-37841, functional
-61029, functional
-54028, functional
-62524, functional
-21823, functional
-72041, functional
-37003, functional
-48146, functional
-24226, functional
-69041, functional
-23197, functional
-20567, functional
-18724, functional
-45638, functional
-56859, functional
-53580, functional
-64502, functional
-56029, functional
-19390, functional
-41867, functional
-13119, functional
-24245, functional
-47567, functional
-15273, functional
-38363, functional
-40884, functional
-38196, functional
-59082, functional
-30060, functional
-68781, functional
-7367, functional
-44044, functional
-45134, functional
-67615, functional
-38431, functional
-29774, functional
-28686, functional
-14920, functional
-34748, functional
-30242, functional
-17108, functional
-25692, functional
-42290, functional
-37338, functional
-57619, functional
-4591, functional
-68914, functional
-5153, functional
-11281, functional
-55600, functional
-47424, functional
-73346, functional
-50009, functional
-67133, functional
-68078, functional
-54343, functional
-46759, functional
-12729, functional
-41290, functional
-72301, functional
-7777, functional
-24251, functional
-14866, functional
-12481, functional
-14076, functional
-20100, functional
-66511, functional
-7525, functional
-30083, functional
-12720, functional
-69412, functional
-9648, functional
-36688, functional
-73672, functional
-63792, functional
-48809, functional
-47478, functional
-40001, functional
-20203, functional
-51681, functional
-49857, functional
-1152, functional
-5702, functional
-9930, functional
-23312, functional
-33902, functional
-3748, functional
-64716, functional
-63317, functional
-63690, functional
-73712, functional
-66439, functional
-20382, functional
-59378, functional
-35687, functional
-49242, functional
-51024, functional
-22637, functional
-50330, functional
-61084, functional
-37160, functional
-9662, functional
-23778, functional
-43494, functional
-73387, functional
-62787, functional
-29615, functional
-29078, functional
-56849, functional
-15764, functional
-74054, functional
-58635, functional
-9492, functional
-44739, functional
-25703, functional
-58882, functional
-27702, functional
-17522, functional
-60885, functional
-65244, functional
-1249, functional
-40951, functional
-4798, functional
-63081, functional
-17556, functional
-14304, functional
-26873, functional
-30586, functional
-43991, functional
-10839, functional
-7790, functional
-13371, functional
-45740, functional
-71061, functional
-72675, functional
-11682, functional
-58761, functional
-64753, functional
-36923, functional
-13981, functional
-47061, functional
-69519, functional
-70258, functional
-59852, functional
-56517, functional
-63629, functional
-24696, functional
-39976, functional
-23062, functional
-21306, functional
-24830, functional
-49209, functional
-9284, functional
-16401, functional
-7750, functional
-38294, functional
-43370, functional
-38221, functional
-26129, functional
-50598, functional
-45721, functional
-6659, functional
-21348, functional
-40112, functional
-67977, functional
-42387, functional
-27782, functional
-30172, functional
-73363, functional
-27521, functional
-73976, functional
-17508, functional
-46383, functional
-53624, functional
-36732, functional
-17474, functional
-15050, functional
-43524, functional
-3077, functional
-7096, functional
-63372, functional
-28724, functional
-57638, functional
-46398, functional
-79, functional
-41146, functional
-47718, functional
-4483, functional
-49005, functional
-38536, functional
-49927, functional
-53311, functional
-36743, functional
-60114, functional
-66906, functional
-43619, functional
-72585, functional
-48235, functional
-16563, functional
-44920, functional
-49405, functional
-63084, functional
-60340, functional
-25106, functional
-12694, functional
-45082, functional
-47846, functional
-9427, functional
-73041, functional
-47293, functional
-28188, functional
-67821, functional
-27781, functional
-68179, functional
-2028, functional
-69839, functional
-33888, functional
-32853, functional
-28271, functional
-53669, functional
-4865, functional
-33189, functional
-2703, functional
-10069, functional
-4982, functional
-50276, functional
-68934, functional
-22307, functional
-3961, functional
-23830, functional
-40016, functional
-52109, functional
-19307, functional
-48090, functional
-26572, functional
-1241, functional
-36479, functional
-62973, functional
-49689, functional
-28197, functional
-31668, functional
-69080, functional
-65489, functional
-42615, functional
-66888, functional
-58800, functional
-16027, functional
-72544, functional
-45910, functional
-54812, functional
-27197, functional
-14376, functional
-24813, functional
-48227, functional
-71679, functional
-49175, functional
-15565, functional
-50341, functional
-3354, functional
-17602, functional
-19258, functional
-33580, functional
-2552, functional
-8528, functional
-8797, functional
-62668, functional
-66318, functional
-34153, functional
-70122, functional
-23590, functional
-5346, functional
-16602, functional
-8958, functional
-64978, functional
-61112, functional
-21777, functional
-4440, functional
-60476, functional
-27130, functional
-29336, functional
-57047, functional
-8299, functional
-25630, functional
-48333, functional
-66558, functional
-58364, functional
-58316, functional
-20637, functional
-2963, functional
-40659, functional
-16189, functional
-68987, functional
-55697, functional
-57713, functional
-58977, functional
-70846, functional
-59916, functional
-36344, functional
-4486, functional
-49668, functional
-12987, functional
-593, functional
-73274, functional
-71044, functional
-41305, functional
-16150, functional
-54533, functional
-44855, functional
-46896, functional
-41902, functional
-65888, functional
-8824, functional
-46577, functional
-12169, functional
-16358, functional
-63434, functional
-72669, functional
-40522, functional
-61838, functional
-21987, functional
-47942, functional
-29184, functional
-68995, functional
-19814, functional
-50580, functional
-70750, functional
-5404, functional
-65235, functional
-44840, functional
-3036, functional
-68786, functional
-20217, functional
-8492, functional
-57145, functional
-53205, functional
-61782, functional
-2339, functional
-43636, functional
-6105, functional
-2289, functional
-6033, functional
-17797, functional
-62924, functional
-37873, functional
-12389, functional
-19216, functional
-27021, functional
-10283, functional
-39511, functional
-19126, functional
-65340, functional
-18071, functional
-64757, functional
-11501, functional
-70252, functional
-16007, functional
-20493, functional
-49855, functional
-44543, functional
-10540, functional
-69475, functional
-1579, functional
-66242, functional
-12454, functional
-38019, functional
-39711, functional
-24088, functional
-14517, functional
-41775, functional
-67964, functional
-57674, functional
-30369, functional
-43371, functional
-32430, functional
-13862, functional
-62366, functional
-47194, functional
-38547, functional
-53391, functional
-16698, functional
-39982, functional
-7846, functional
-59707, functional
-67132, functional
-20224, functional
-43385, functional
-48602, functional
-53162, functional
-32506, functional
-21847, functional
-62789, functional
-7659, functional
-17357, functional
-6823, functional
-72037, functional
-21518, functional
-40075, functional
-27574, functional
-43595, functional
-61768, functional
-53416, functional
-56885, functional
-65970, functional
-25053, functional
-38096, functional
-20829, functional
-8164, functional
-41217, functional
-4605, functional
-63919, functional
-19973, functional
-58869, functional
-22238, functional
-49761, functional
-25247, functional
-24404, functional
-43424, functional
-20596, functional
-40379, functional
-38353, functional
-11022, functional
-17920, functional
-15048, functional
-6389, functional
-68269, functional
-47371, functional
-60382, functional
-72423, functional
-8185, functional
-45688, functional
-2935, functional
-3870, functional
-63055, functional
-1652, functional
-55395, functional
-35281, functional
-46457, functional
-10263, functional
-17683, functional
-50127, functional
-20491, functional
-5255, functional
-26867, functional
-69445, functional
-21879, functional
-48307, functional
-10411, functional
-6585, functional
-44547, functional
-7429, functional
-68380, functional
-49167, functional
-62087, functional
-4036, functional
-61065, functional
-27083, functional
-9573, functional
-16265, functional
-57493, functional
-29596, functional
-11192, functional
-35659, functional
-61154, functional
-73652, functional
-35065, functional
-52331, functional
-25650, functional
-56428, functional
-59145, functional
-38368, functional
-773, functional
-51947, functional
-39369, functional
-14441, functional
-2091, functional
-7995, functional
-16926, functional
-6187, functional
-18630, functional
-10060, functional
-30018, functional
-30966, functional
-11448, functional
-22577, functional
-21162, functional
-12543, functional
-69425, functional
-2254, functional
-72640, functional
-4812, functional
-38776, functional
-50968, functional
-4075, functional
-2130, functional
-70884, functional
-33770, functional
-7049, functional
-25239, functional
-40408, functional
-70790, functional
-52346, functional
-69635, functional
-41375, functional
-54291, functional
-39525, functional
-70381, functional
-9076, functional
-58338, functional
-14492, functional
-46943, functional
-49541, functional
-43214, functional
-24604, functional
-46804, functional
-36932, functional
-18600, functional
-21646, functional
-10211, functional
-23113, functional
-7330, functional
-16693, functional
-63269, functional
-17432, functional
-32884, functional
-60673, functional
-51252, functional
-59518, functional
-58775, functional
-23338, functional
-25602, functional
-38069, functional
-56585, functional
-47607, functional
-53108, functional
-44977, functional
-61120, functional
-13932, functional
-51, functional
-50075, functional
-1304, functional
-2713, functional
-59470, functional
-70144, functional
-33736, functional
-373, functional
-39890, functional
-3395, functional
-4354, functional
-11938, functional
-6065, functional
-23766, functional
-56533, functional
-46725, functional
-63279, functional
-20864, functional
-28638, functional
-71137, functional
-26882, functional
-13583, functional
-30183, functional
-49715, functional
-55612, functional
-29107, functional
-24778, functional
-59120, functional
-19860, functional
-43696, functional
-2654, functional
-19729, functional
-39587, functional
-43282, functional
-63907, functional
-53070, functional
-25645, functional
-44627, functional
-11837, functional
-53587, functional
-6194, functional
-66650, functional
-37055, functional
-36586, functional
-35052, functional
-14212, functional
-50609, functional
-55200, functional
-71297, functional
-10930, functional
-49527, functional
-10165, functional
-67624, functional
-27606, functional
-17717, functional
-50816, functional
-10962, functional
-437, functional
-52509, functional
-51764, functional
-25674, functional
-59335, functional
-43317, functional
-25943, functional
-12413, functional
-43165, functional
-36827, functional
-40330, functional
-11462, functional
-1735, functional
-59955, functional
-11597, functional
-25409, functional
-35142, functional
-12735, functional
-38606, functional
-71582, functional
-47545, functional
-51365, functional
-50449, functional
-53994, functional
-27446, functional
-4452, functional
-32021, functional
-71057, functional
-4296, functional
-38511, functional
-36354, functional
-38484, functional
-55764, functional
-49163, functional
-33645, functional
-25114, functional
-35661, functional
-55812, functional
-61739, functional
-55594, functional
-53098, functional
-68091, functional
-5039, functional
-48786, functional
-73585, functional
-66208, functional
-23678, functional
-1429, functional
-42784, functional
-69923, functional
-28391, functional
-31465, functional
-35364, functional
-630, functional
-22283, functional
-21887, functional
-20897, functional
-45215, functional
-70515, functional
-71301, functional
-23750, functional
-45331, functional
-64961, functional
-69760, functional
-59515, functional
-33221, functional
-1708, functional
-54956, functional
-42963, functional
-28135, functional
-25658, functional
-43817, functional
-57985, functional
-72508, functional
-2118, functional
-61681, functional
-5105, functional
-1526, functional
-8085, functional
-18509, functional
-38018, functional
-11516, functional
-49021, functional
-791, functional
-6503, functional
-20944, functional
-61691, functional
-29000, functional
-64525, functional
-5250, functional
-23821, functional
-51257, functional
-51863, functional
-44778, functional
-35494, functional
-31783, functional
-48302, functional
-28369, functional
-36414, functional
-6940, functional
-44641, functional
-16095, functional
-54590, functional
-58297, functional
-43956, functional
-52349, functional
-764, functional
-22741, functional
-6430, functional
-19568, functional
-116, functional
-6512, functional
-44009, functional
-53447, functional
-27643, functional
-41679, functional
-19491, functional
-16957, functional
-18840, functional
-31153, functional
-16537, functional
-28398, functional
-70485, functional
-68662, functional
-802, functional
-14325, functional
-66462, functional
-6759, functional
-1451, functional
-47532, functional
-42745, functional
-8134, functional
-2450, functional
-36297, functional
-38633, functional
-13879, functional
-18950, functional
-30800, functional
-11447, functional
-71211, functional
-6398, functional
-62213, functional
-21550, functional
-73072, functional
-26290, functional
-39882, functional
-8393, functional
-58852, functional
-63988, functional
-73162, functional
-64436, functional
-37995, functional
-27389, functional
-69718, functional
-3513, functional
-15429, functional
-78, functional
-13412, functional
-16458, functional
-39213, functional
-50990, functional
-9104, functional
-2169, functional
-12814, functional
-16780, functional
-29192, functional
-20218, functional
-18849, functional
-62451, functional
-15157, functional
-39648, functional
-60399, functional
-29936, functional
-57265, functional
-34212, functional
-34845, functional
-17041, functional
-39135, functional
-37920, functional
-23658, functional
-52264, functional
-45881, functional
-11809, functional
-36355, functional
-29637, functional
-48707, functional
-22974, functional
-58135, functional
-25006, functional
-32844, functional
-16865, functional
-72168, functional
-43881, functional
-3790, functional
-70349, functional
-60621, functional
-33269, functional
-50409, functional
-18022, functional
-56106, functional
-62725, functional
-40750, functional
-24169, functional
-54361, functional
-27806, functional
-49033, functional
-30557, functional
-532, functional
-55528, functional
-637, functional
-60103, functional
-2895, functional
-2201, functional
-43348, functional
-30686, functional
-49112, functional
-52655, functional
-64312, functional
-40214, functional
-17245, functional
-25373, functional
-38213, functional
-54581, functional
-34513, functional
-10254, functional
-29777, functional
-60040, functional
-23268, functional
-37324, functional
-53881, functional
-14111, functional
-50021, functional
-11621, functional
-58448, functional
-32270, functional
-283, functional
-26138, functional
-40436, functional
-20375, functional
-45562, functional
-39616, functional
-55596, functional
-46310, functional
-8158, functional
-29724, functional
-41283, functional
-69516, functional
-40014, functional
-7621, functional
-16267, functional
-43538, functional
-66634, functional
-48198, functional
-56949, functional
-13598, functional
-21983, functional
-18404, functional
-71353, functional
-2244, functional
-49471, functional
-72348, functional
-32398, functional
-26276, functional
-25790, functional
-30782, functional
-11817, functional
-40119, functional
-12741, functional
-40344, functional
-39035, functional
-73130, functional
-66672, functional
-11779, functional
-24338, functional
-4733, functional
-56681, functional
-26237, functional
-38008, functional
-16203, functional
-60273, functional
-30084, functional
-45800, functional
-7087, functional
-45260, functional
-12685, functional
-29792, functional
-15953, functional
-64794, functional
-1371, functional
-24191, functional
-4665, functional
-52543, functional
-42366, functional
-21135, functional
-60325, functional
-14795, functional
-58462, functional
-27296, functional
-32511, functional
-37076, functional
-58483, functional
-6637, functional
-14424, functional
-10303, functional
-19819, functional
-56999, functional
-45376, functional
-11038, functional
-28110, functional
-61311, functional
-20635, functional
-22324, functional
-35316, functional
-4669, functional
-71651, functional
-57233, functional
-25362, functional
-15502, functional
-69046, functional
-39174, functional
-12293, functional
-49426, functional
-25940, functional
-62728, functional
-69483, functional
-2752, functional
-29289, functional
-53186, functional
-27688, functional
-8545, functional
-53472, functional
-50637, functional
-12314, functional
-65000, functional
-47377, functional
-60211, functional
-71540, functional
-34565, functional
-19798, functional
-6532, functional
-30371, functional
-2730, functional
-73855, functional
-58846, functional
-65393, functional
-22248, functional
-46854, functional
-31402, functional
-52480, functional
-60574, functional
-33263, functional
-2744, functional
-30602, functional
-2309, functional
-72619, functional
-4729, functional
-19107, functional
-56599, functional
-26003, functional
-32002, functional
-4874, functional
-8938, functional
-25538, functional
-18611, functional
-27692, functional
-8673, functional
-61849, functional
-59430, functional
-16118, functional
-29113, functional
-61615, functional
-73574, functional
-13951, functional
-33809, functional
-2942, functional
-68647, functional
-71107, functional
-45284, functional
-6429, functional
-38229, functional
-54808, functional
-43996, functional
-4070, functional
-68163, functional
-27048, functional
-49397, functional
-3755, functional
-46467, functional
-6776, functional
-42301, functional
-72752, functional
-57017, functional
-29419, functional
-50279, functional
-62922, functional
-22301, functional
-3859, functional
-8177, functional
-59459, functional
-2392, functional
-12133, functional
-3266, functional
-37750, functional
-41316, functional
-43077, functional
-59048, functional
-15210, functional
-6215, functional
-54935, functional
-42153, functional
-73473, functional
-28060, functional
-17277, functional
-34117, functional
-31379, functional
-55449, functional
-23291, functional
-49636, functional
-56186, functional
-67198, functional
-28545, functional
-37388, functional
-3258, functional
-35800, functional
-54501, functional
-32114, functional
-22841, functional
-27749, functional
-7188, functional
-24660, functional
-57465, functional
-69326, functional
-48458, functional
-4828, functional
-11654, functional
-5134, functional
-48402, functional
-43057, functional
-63969, functional
-15984, functional
-37269, functional
-36130, functional
-66564, functional
-72131, functional
-48269, functional
-62546, functional
-43732, functional
-72399, functional
-5770, functional
-54268, functional
-66255, functional
-11848, functional
-12803, functional
-41907, functional
-7341, functional
-17148, functional
-42836, functional
-52021, functional
-66620, functional
-63552, functional
-72901, functional
-70939, functional
-45702, functional
-40981, functional
-53230, functional
-68635, functional
-47328, functional
-20219, functional
-66398, functional
-18891, functional
-27995, functional
-29787, functional
-5147, functional
-36616, functional
-73498, functional
-18320, functional
-46934, functional
-36105, functional
-31447, functional
-12882, functional
-30562, functional
-36611, functional
-25792, functional
-39254, functional
-70946, functional
-41084, functional
-62507, functional
-69368, functional
-14482, functional
-10085, functional
-1688, functional
-8348, functional
-47087, functional
-45138, functional
-31716, functional
-42307, functional
-61260, functional
-73686, functional
-3058, functional
-8116, functional
-55229, functional
-16692, functional
-4131, functional
-13213, functional
-37755, functional
-16894, functional
-47067, functional
-4786, functional
-45248, functional
-47697, functional
-52816, functional
-5067, functional
-26689, functional
-47363, functional
-18992, functional
-45314, functional
-3320, functional
-2280, functional
-47916, functional
-53564, functional
-20594, functional
-71837, functional
-39931, functional
-43944, functional
-28234, functional
-13231, functional
-21295, functional
-9005, functional
-24574, functional
-45457, functional
-27070, functional
-55087, functional
-32961, functional
-64047, functional
-29846, functional
-25101, functional
-48720, functional
-6089, functional
-12906, functional
-12597, functional
-27815, functional
-51964, functional
-31028, functional
-48266, functional
-44231, functional
-72558, functional
-57091, functional
-15052, functional
-59195, functional
-63092, functional
-60654, functional
-56876, functional
-1835, functional
-14969, functional
-39607, functional
-2060, functional
-69894, functional
-54757, functional
-58237, functional
-36334, functional
-5847, functional
-56643, functional
-53489, functional
-44037, functional
-15126, functional
-38552, functional
-6301, functional
-50738, functional
-20695, functional
-57318, functional
-8628, functional
-18568, functional
-59731, functional
-16852, functional
-39838, functional
-27250, functional
-70908, functional
-34081, functional
-18098, functional
-69200, functional
-31186, functional
-57617, functional
-35645, functional
-42743, functional
-45269, functional
-67056, functional
-50162, functional
-15570, functional
-71271, functional
-34078, functional
-51838, functional
-12115, functional
-19386, functional
-19164, functional
-38539, functional
-22581, functional
-37675, functional
-40875, functional
-59590, functional
-48445, functional
-21816, functional
-25347, functional
-38722, functional
-22677, functional
-43966, functional
-62627, functional
-34793, functional
-71846, functional
-37699, functional
-5402, functional
-5102, functional
-15843, functional
-47074, functional
-42407, functional
-210, functional
-3910, functional
-48691, functional
-36396, functional
-60915, functional
-57472, functional
-37581, functional
-63334, functional
-8268, functional
-36457, functional
-8676, functional
-35260, functional
-15367, functional
-35688, functional
-66589, functional
-32934, functional
-62942, functional
-25749, functional
-12627, functional
-16345, functional
-8360, functional
-47825, functional
-63941, functional
-67461, functional
-6482, functional
-69228, functional
-25113, functional
-48460, functional
-65760, functional
-32473, functional
-16456, functional
-575, functional
-18280, functional
-62591, functional
-68581, functional
-54358, functional
-67794, functional
-65441, functional
-35170, functional
-38439, functional
-59301, functional
-17659, functional
-45386, functional
-67896, functional
-59361, functional
-31760, functional
-44234, functional
-49864, functional
-21536, functional
-33473, functional
-53352, functional
-20546, functional
-12348, functional
-52733, functional
-70300, functional
-6397, functional
-62677, functional
-7206, functional
-8224, functional
-52732, functional
-38060, functional
-72598, functional
-12256, functional
-49054, functional
-41865, functional
-70051, functional
-20374, functional
-46593, functional
-74068, functional
-49053, functional
-57609, functional
-5164, functional
-21922, functional
-46372, functional
-24699, functional
-71770, functional
-70156, functional
-34574, functional
-4668, functional
-50208, functional
-6572, functional
-57388, functional
-3978, functional
-36938, functional
-3894, functional
-49045, functional
-21017, functional
-70111, functional
-2329, functional
-15543, functional
-27575, functional
-24526, functional
-45819, functional
-15300, functional
-32107, functional
-9728, functional
-40468, functional
-57916, functional
-53651, functional
-60049, functional
-34830, functional
-9358, functional
-31628, functional
-15603, functional
-37051, functional
-52389, functional
-13939, functional
-65510, functional
-16025, functional
-54336, functional
-50130, functional
-22539, functional
-22605, functional
-68131, functional
-22837, functional
-11716, functional
-29656, functional
-68601, functional
-23235, functional
-60964, functional
-73647, functional
-159, functional
-63369, functional
-3131, functional
-38496, functional
-37516, functional
-64148, functional
-22452, functional
-19948, functional
-42947, functional
-63299, functional
-53516, functional
-31548, functional
-15479, functional
-67962, functional
-69528, functional
-68040, functional
-22360, functional
-5748, functional
-20828, functional
-325, functional
-29858, functional
-71141, functional
-28853, functional
-32165, functional
-45347, functional
-65664, functional
-23025, functional
-70926, functional
-62981, functional
-64121, functional
-61797, functional
-49749, functional
-56738, functional
-7782, functional
-7576, functional
-9656, functional
-53878, functional
-22512, functional
-9755, functional
-58947, functional
-47022, functional
-18796, functional
-2616, functional
-22039, functional
-19135, functional
-41491, functional
-14323, functional
-31449, functional
-51241, functional
-41003, functional
-23015, functional
-11649, functional
-15058, functional
-3968, functional
-806, functional
-10987, functional
-7272, functional
-62932, functional
-9670, functional
-11494, functional
-44475, functional
-45144, functional
-42161, functional
-64371, functional
-68982, functional
-58546, functional
-5163, functional
-4051, functional
-36404, functional
-44586, functional
-47281, functional
-20005, functional
-40873, functional
-64970, functional
-14242, functional
-25235, functional
-69351, functional
-9066, functional
-8877, functional
-63383, functional
-53702, functional
-30410, functional
-54135, functional
-47045, functional
-32145, functional
-64539, functional
-46424, functional
-25246, functional
-63241, functional
-59205, functional
-69165, functional
-58242, functional
-42618, functional
-27972, functional
-37246, functional
-37733, functional
-42342, functional
-26326, functional
-36391, functional
-33777, functional
-36118, functional
-17931, functional
-17009, functional
-36090, functional
-46121, functional
-37892, functional
-11756, functional
-36166, functional
-48132, functional
-25911, functional
-6577, functional
-32487, functional
-69216, functional
-65275, functional
-60020, functional
-2665, functional
-35244, functional
-33867, functional
-54921, functional
-21678, functional
-32186, functional
-54589, functional
-16851, functional
-21244, functional
-31033, functional
-46011, functional
-6558, functional
-44397, functional
-68262, functional
-67007, functional
-10534, functional
-47739, functional
-8649, functional
-19615, functional
-22149, functional
-7152, functional
-6448, functional
-72791, functional
-59421, functional
-62158, functional
-58302, functional
-63496, functional
-32825, functional
-71051, functional
-19581, functional
-68684, functional
-54174, functional
-56025, functional
-41320, functional
-57006, functional
-9817, functional
-19672, functional
-5033, functional
-66817, functional
-59917, functional
-26504, functional
-63781, functional
-58877, functional
-31593, functional
-53149, functional
-227, functional
-31060, functional
-3679, functional
-64830, functional
-67747, functional
-5391, functional
-24267, functional
-28671, functional
-30710, functional
-1268, functional
-29571, functional
-10676, functional
-54593, functional
-44662, functional
-33087, functional
-56727, functional
-30546, functional
-5112, functional
-22606, functional
-8776, functional
-55957, functional
-10040, functional
-15785, functional
-44079, functional
-61673, functional
-26714, functional
-53590, functional
-38692, functional
-44028, functional
-46115, functional
-15710, functional
-6894, functional
-36803, functional
-9768, functional
-38303, functional
-6188, functional
-28087, functional
-47806, functional
-21423, functional
-11227, functional
-62939, functional
-18573, functional
-66088, functional
-18129, functional
-32756, functional
-73720, functional
-32226, functional
-15076, functional
-31980, functional
-55125, functional
-38447, functional
-56470, functional
-19374, functional
-59999, functional
-25927, functional
-39101, functional
-13858, functional
-50212, functional
-42555, functional
-68769, functional
-34881, functional
-13006, functional
-52289, functional
-21315, functional
-55434, functional
-42254, functional
-68756, functional
-5536, functional
-73384, functional
-17957, functional
-41776, functional
-41906, functional
-19975, functional
-72756, functional
-55797, functional
-53657, functional
-6870, functional
-42468, functional
-67430, functional
-65351, functional
-25132, functional
-4795, functional
-3079, functional
-47084, functional
-52036, functional
-18366, functional
-43237, functional
-62553, functional
-42827, functional
-15552, functional
-40902, functional
-36685, functional
-69646, functional
-50883, functional
-65955, functional
-60300, functional
-45530, functional
-50655, functional
-49211, functional
-14008, functional
-21510, functional
-63492, functional
-24669, functional
-5155, functional
-39044, functional
-15310, functional
-73308, functional
-2069, functional
-40189, functional
-43926, functional
-3598, functional
-19542, functional
-2765, functional
-28976, functional
-10778, functional
-32109, functional
-24221, functional
-29570, functional
-19457, functional
-54363, functional
-33919, functional
-9335, functional
-16665, functional
-62818, functional
-21993, functional
-42848, functional
-60950, functional
-72174, functional
-51991, functional
-30533, functional
-69309, functional
-24492, functional
-5969, functional
-24216, functional
-59734, functional
-12226, functional
-72735, functional
-58473, functional
-56421, functional
-32391, functional
-37741, functional
-53542, functional
-53029, functional
-36598, functional
-23639, functional
-66860, functional
-7641, functional
-23281, functional
-41505, functional
-3901, functional
-48058, functional
-44336, functional
-34178, functional
-6570, functional
-34760, functional
-43446, functional
-65361, functional
-34980, functional
-22274, functional
-49238, functional
-69678, functional
-15230, functional
-70194, functional
-53520, functional
-8692, functional
-34147, functional
-9128, functional
-32761, functional
-5549, functional
-7905, functional
-694, functional
-36071, functional
-43122, functional
-26079, functional
-5520, functional
-48185, functional
-55335, functional
-63929, functional
-66359, functional
-38745, functional
-22715, functional
-26708, functional
-53732, functional
-34473, functional
-17101, functional
-62104, functional
-7605, functional
-30577, functional
-3695, functional
-28408, functional
-2637, functional
-54955, functional
-19967, functional
-47420, functional
-63037, functional
-36333, functional
-65, functional
-5063, functional
-21271, functional
-33670, functional
-38252, functional
-6859, functional
-72132, functional
-72963, functional
-31520, functional
-40991, functional
-32512, functional
-7209, functional
-2793, functional
-66791, functional
-4330, functional
-73565, functional
-46667, functional
-17287, functional
-71129, functional
-5412, functional
-42865, functional
-61127, functional
-69543, functional
-58010, functional
-5643, functional
-47312, functional
-49402, functional
-64874, functional
-18445, functional
-72305, functional
-61798, functional
-36631, functional
-21078, functional
-16792, functional
-2914, functional
-69019, functional
-28791, functional
-69943, functional
-71874, functional
-62648, functional
-73985, functional
-475, functional
-58667, functional
-40066, functional
-56073, functional
-49571, functional
-43987, functional
-45812, functional
-44269, functional
-39388, functional
-18375, functional
-8098, functional
-39231, functional
-12781, functional
-48202, functional
-41465, functional
-24099, functional
-61549, functional
-4579, functional
-46982, functional
-58606, functional
-8631, functional
-64492, functional
-20702, functional
-66775, functional
-52235, functional
-47851, functional
-39677, functional
-71366, functional
-22523, functional
-65592, functional
-17511, functional
-7423, functional
-16984, functional
-10931, functional
-9193, functional
-9847, functional
-26391, functional
-15288, functional
-71244, functional
-74134, functional
-2231, functional
-30576, functional
-15009, functional
-68019, functional
-2200, functional
-42462, functional
-2583, functional
-56843, functional
-12585, functional
-47357, functional
-51799, functional
-15823, functional
-28767, functional
-24094, functional
-25012, functional
-25561, functional
-51716, functional
-10364, functional
-14243, functional
-70677, functional
-8934, functional
-22668, functional
-581, functional
-42634, functional
-23128, functional
-63148, functional
-1941, functional
-17292, functional
-25905, functional
-33805, functional
-53140, functional
-3262, functional
-10480, functional
-52035, functional
-40381, functional
-9606, functional
-38116, functional
-25513, functional
-63161, functional
-41434, functional
-23036, functional
-17261, functional
-31683, functional
-60921, functional
-45648, functional
-27610, functional
-29959, functional
-28120, functional
-8708, functional
-35236, functional
-28262, functional
-16899, functional
-54030, functional
-21937, functional
-54628, functional
-21762, functional
-25416, functional
-11148, functional
-28633, functional
-73406, functional
-11508, functional
-6640, functional
-22957, functional
-15276, functional
-19236, functional
-25276, functional
-1282, functional
-12435, functional
-38819, functional
-66289, functional
-53315, functional
-56139, functional
-36935, functional
-27337, functional
-42976, functional
-26123, functional
-22758, functional
-18868, functional
-68342, functional
-30897, functional
-29872, functional
-6114, functional
-50230, functional
-41563, functional
-29452, functional
-705, functional
-4288, functional
-71876, functional
-65614, functional
-11488, functional
-41244, functional
-14770, functional
-52001, functional
-66718, functional
-69414, functional
-19607, functional
-65061, functional
-15377, functional
-34373, functional
-47980, functional
-29722, functional
-20392, functional
-64427, functional
-14009, functional
-14663, functional
-25259, functional
-13532, functional
-18783, functional
-71195, functional
-70936, functional
-10979, functional
-18116, functional
-38230, functional
-14176, functional
-30834, functional
-58819, functional
-38274, functional
-38244, functional
-70981, functional
-43535, functional
-50731, functional
-46149, functional
-4602, functional
-6661, functional
-63249, functional
-15578, functional
-38205, functional
-64807, functional
-16732, functional
-2572, functional
-57634, functional
-12943, functional
-65608, functional
-51290, functional
-64230, functional
-60206, functional
-8493, functional
-60338, functional
-48821, functional
-45182, functional
-63427, functional
-63187, functional
-20134, functional
-9725, functional
-69991, functional
-56437, functional
-54467, functional
-61457, functional
-25813, functional
-10661, functional
-33143, functional
-43396, functional
-12751, functional
-29393, functional
-10070, functional
-27663, functional
-59053, functional
-69088, functional
-36314, functional
-35988, functional
-35751, functional
-73900, functional
-33201, functional
-40919, functional
-64629, functional
-29855, functional
-5002, functional
-27343, functional
-27258, functional
-61182, functional
-31513, functional
-31530, functional
-36736, functional
-72531, functional
-30281, functional
-57924, functional
-32651, functional
-46280, functional
-59165, functional
-54483, functional
-7968, functional
-37052, functional
-42188, functional
-69195, functional
-45150, functional
-27103, functional
-69451, functional
-68181, functional
-54223, functional
-68908, functional
-413, functional
-30691, functional
-20434, functional
-8072, functional
-10998, functional
-46573, functional
-14799, functional
-67966, functional
-68468, functional
-15380, functional
-49178, functional
-2565, functional
-68350, functional
-43321, functional
-47065, functional
-28882, functional
-33170, functional
-8975, functional
-70733, functional
-46703, functional
-61972, functional
-34216, functional
-71920, functional
-51181, functional
-35238, functional
-61738, functional
-48212, functional
-17894, functional
-10696, functional
-1364, functional
-3252, functional
-7683, functional
-54538, functional
-3049, functional
-58666, functional
-41844, functional
-1849, functional
-34253, functional
-5321, functional
-32650, functional
-18882, functional
-24314, functional
-33715, functional
-42273, functional
-6463, functional
-34183, functional
-4027, functional
-67275, functional
-63900, functional
-12962, functional
-29591, functional
-9386, functional
-71734, functional
-66537, functional
-68443, functional
-35900, functional
-19479, functional
-70854, functional
-64904, functional
-60458, functional
-24988, functional
-34848, functional
-31592, functional
-39565, functional
-13809, functional
-1390, functional
-16381, functional
-26264, functional
-20028, functional
-71467, functional
-30687, functional
-47783, functional
-31582, functional
-36617, functional
-43825, functional
-2834, functional
-64087, functional
-45762, functional
-14285, functional
-54080, functional
-4133, functional
-46803, functional
-35867, functional
-638, functional
-29803, functional
-49939, functional
-43550, functional
-74066, functional
-46302, functional
-18433, functional
-69697, functional
-20619, functional
-727, functional
-56287, functional
-32085, functional
-40346, functional
-73000, functional
-70558, functional
-26795, functional
-64342, functional
-22796, functional
-38691, functional
-66281, functional
-41391, functional
-12385, functional
-33047, functional
-2001, functional
-27896, functional
-34352, functional
-45250, functional
-26489, functional
-64028, functional
-72905, functional
-13150, functional
-128, functional
-47369, functional
-7959, functional
-12101, functional
-26516, functional
-71431, functional
-9739, functional
-29962, functional
-4821, functional
-60163, functional
-64205, functional
-37234, functional
-46411, functional
-28647, functional
-68309, functional
-73751, functional
-61190, functional
-5107, functional
-29679, functional
-48108, functional
-63656, functional
-71570, functional
-72886, functional
-18248, functional
-27944, functional
-72211, functional
-62576, functional
-20953, functional
-54338, functional
-56840, functional
-59671, functional
-5503, functional
-57844, functional
-30394, functional
-25374, functional
-6792, functional
-72120, functional
-64751, functional
-36246, functional
-36012, functional
-63048, functional
-67401, functional
-9936, functional
-31725, functional
-27466, functional
-49506, functional
-61916, functional
-21737, functional
-58798, functional
-70682, functional
-67051, functional
-67531, functional
-50264, functional
-21779, functional
-59915, functional
-59397, functional
-63987, functional
-338, functional
-48567, functional
-2075, functional
-39745, functional
-30473, functional
-42535, functional
-47301, functional
-70916, functional
-3529, functional
-68893, functional
-39333, functional
-45565, functional
-51212, functional
-15756, functional
-8384, functional
-60483, functional
-14067, functional
-42210, functional
-36945, functional
-73889, functional
-12215, functional
-47644, functional
-27354, functional
-10903, functional
-55987, functional
-58491, functional
-8082, functional
-73211, functional
-71799, functional
-29290, functional
-61159, functional
-27129, functional
-23982, functional
-54242, functional
-44159, functional
-1617, functional
-30610, functional
-1777, functional
-74147, functional
-67996, functional
-2359, functional
-63905, functional
-64203, functional
-12317, functional
-63121, functional
-69625, functional
-34411, functional
-16177, functional
-38734, functional
-10674, functional
-14757, functional
-38910, functional
-5304, functional
-7842, functional
-32297, functional
-50988, functional
-43633, functional
-71680, functional
-58495, functional
-29586, functional
-14534, functional
-40843, functional
-53190, functional
-11478, functional
-61935, functional
-59899, functional
-27698, functional
-51164, functional
-55435, functional
-44429, functional
-53813, functional
-3260, functional
-5589, functional
-64454, functional
-68250, functional
-24252, functional
-54448, functional
-10131, functional
-73953, functional
-41806, functional
-73434, functional
-73552, functional
-49618, functional
-28645, functional
-5325, functional
-10516, functional
-8529, functional
-39936, functional
-44675, functional
-50575, functional
-4112, functional
-855, functional
-33505, functional
-46905, functional
-6464, functional
-38445, functional
-45205, functional
-11872, functional
-65920, functional
-60614, functional
-47286, functional
-34631, functional
-28689, functional
-19527, functional
-3249, functional
-51213, functional
-30339, functional
-61788, functional
-12980, functional
-8516, functional
-42030, functional
-44116, functional
-32157, functional
-58361, functional
-39878, functional
-5227, functional
-5804, functional
-39854, functional
-28613, functional
-62926, functional
-66192, functional
-41347, functional
-59625, functional
-60486, functional
-56398, functional
-56766, functional
-20822, functional
-42993, functional
-26153, functional
-1734, functional
-34140, functional
-64088, functional
-11484, functional
-32126, functional
-52781, functional
-3329, functional
-62381, functional
-44271, functional
-66143, functional
-53539, functional
-23066, functional
-15365, functional
-48352, functional
-59560, functional
-13225, functional
-19765, functional
-47485, functional
-72108, functional
-54796, functional
-66105, functional
-57570, functional
-35512, functional
-43204, functional
-53574, functional
-72351, functional
-20605, functional
-61946, functional
-58673, functional
-68884, functional
-27282, functional
-13397, functional
-7721, functional
-74009, functional
-19558, functional
-41044, functional
-19992, functional
-48332, functional
-26167, functional
-45853, functional
-43866, functional
-34792, functional
-31481, functional
-71537, functional
-13702, functional
-248, functional
-56447, functional
-43731, functional
-30039, functional
-66065, functional
-13616, functional
-53017, functional
-57232, functional
-66184, functional
-67809, functional
-46230, functional
-51054, functional
-65493, functional
-44820, functional
-2202, functional
-53699, functional
-28247, functional
-21784, functional
-52428, functional
-11544, functional
-1309, functional
-56445, functional
-72620, functional
-49151, functional
-12890, functional
-40084, functional
-61860, functional
-29026, functional
-65771, functional
-60097, functional
-73, functional
-13334, functional
-37327, functional
-28445, functional
-6508, functional
-8858, functional
-20456, functional
-43848, functional
-69122, functional
-8815, functional
-31063, functional
-44829, functional
-56672, functional
-30530, functional
-3727, functional
-66525, functional
-17728, functional
-29225, functional
-4533, functional
-37541, functional
-24779, functional
-50429, functional
-69588, functional
-48115, functional
-68510, functional
-1153, functional
-49969, functional
-52208, functional
-26856, functional
-66824, functional
-41241, functional
-47048, functional
-10412, functional
-71200, functional
-68594, functional
-17668, functional
-27847, functional
-2692, functional
-41400, functional
-45112, functional
-39095, functional
-17550, functional
-68577, functional
-14885, functional
-34045, functional
-64814, functional
-60836, functional
-42228, functional
-18744, functional
-40191, functional
-20994, functional
-57115, functional
-45272, functional
-1623, functional
-28878, functional
-38495, functional
-1401, functional
-43390, functional
-27777, functional
-46528, functional
-28738, functional
-48931, functional
-49960, functional
-28480, functional
-13660, functional
-4761, functional
-65062, functional
-43118, functional
-33660, functional
-27257, functional
-26200, functional
-5330, functional
-46210, functional
-44695, functional
-59557, functional
-37308, functional
-17309, functional
-27050, functional
-10024, functional
-36809, functional
-51804, functional
-36679, functional
-59382, functional
-14022, functional
-56104, functional
-11405, functional
-63131, functional
-49436, functional
-46395, functional
-62185, functional
-26305, functional
-44424, functional
-6092, functional
-2962, functional
-68902, functional
-73540, functional
-60506, functional
-23269, functional
-52938, functional
-73972, functional
-73167, functional
-52665, functional
-31347, functional
-32377, functional
-31536, functional
-42238, functional
-34094, functional
-23106, functional
-30231, functional
-13608, functional
-59506, functional
-55574, functional
-39679, functional
-2975, functional
-12047, functional
-43651, functional
-34550, functional
-26459, functional
-25187, functional
-66642, functional
-47374, functional
-60196, functional
-28559, functional
-64892, functional
-24656, functional
-26684, functional
-21691, functional
-24411, functional
-71074, functional
-30916, functional
-26112, functional
-72908, functional
-37191, functional
-55855, functional
-43047, functional
-36706, functional
-68943, functional
-30528, functional
-9136, functional
-64812, functional
-17755, functional
-29666, functional
-21532, functional
-23170, functional
-40275, functional
-57065, functional
-74167, functional
-53385, functional
-8804, functional
-35784, functional
-42913, functional
-52838, functional
-69209, functional
-59763, functional
-48629, functional
-47313, functional
-72377, functional
-68767, functional
-51372, functional
-39077, functional
-45563, functional
-5335, functional
-62688, functional
-45997, functional
-15626, functional
-24014, functional
-27984, functional
-45241, functional
-19349, functional
-13263, functional
-23642, functional
-58209, functional
-59892, functional
-55869, functional
-35370, functional
-50682, functional
-47321, functional
-68788, functional
-65027, functional
-13373, functional
-32735, functional
-34262, functional
-10101, functional
-38490, functional
-4215, functional
-16000, functional
-62757, functional
-59949, functional
-47459, functional
-45934, functional
-60930, functional
-9435, functional
-54134, functional
-13030, functional
-16661, functional
-25105, functional
-52327, functional
-56788, functional
-74165, functional
-38824, functional
-50495, functional
-14236, functional
-8907, functional
-74070, functional
-45576, functional
-24694, functional
-67108, functional
-43285, functional
-16729, functional
-54989, functional
-70849, functional
-18926, functional
-44150, functional
-56118, functional
-55361, functional
-57297, functional
-54267, functional
-40567, functional
-8561, functional
-19780, functional
-17404, functional
-42327, functional
-9575, functional
-27426, functional
-29317, functional
-14456, functional
-72292, functional
-62205, functional
-65073, functional
-14554, functional
-21805, functional
-57314, functional
-66742, functional
-16338, functional
-16584, functional
-73424, functional
-46054, functional
-30190, functional
-66016, functional
-34616, functional
-28054, functional
-29611, functional
-7483, functional
-53144, functional
-841, functional
-29982, functional
-68121, functional
-74008, functional
-62601, functional
-9041, functional
-36210, functional
-53272, functional
-9819, functional
-68395, functional
-55019, functional
-15093, functional
-24307, functional
-17201, functional
-2034, functional
-59296, functional
-11331, functional
-66889, functional
-39082, functional
-59128, functional
-30872, functional
-62819, functional
-21517, functional
-2969, functional
-118, functional
-34530, functional
-11007, functional
-48033, functional
-54195, functional
-25155, functional
-53031, functional
-25356, functional
-30733, functional
-49022, functional
-20701, functional
-22206, functional
-68755, functional
-23315, functional
-30491, functional
-13481, functional
-25527, functional
-5343, functional
-50556, functional
-67706, functional
-74172, functional
-66442, functional
-1533, functional
-58516, functional
-25000, functional
-60808, functional
-26866, functional
-28667, functional
-26656, functional
-26135, functional
-19852, functional
-32505, functional
-18553, functional
-3788, functional
-4331, functional
-35735, functional
-9632, functional
-29060, functional
-52406, functional
-49879, functional
-8842, functional
-36142, functional
-58578, functional
-27997, functional
-57143, functional
-35719, functional
-30310, functional
-54374, functional
-22515, functional
-23519, functional
-64704, functional
-22109, functional
-54963, functional
-31491, functional
-36067, functional
-44785, functional
-6165, functional
-67064, functional
-37623, functional
-28665, functional
-2442, functional
-22736, functional
-53371, functional
-65223, functional
-15024, functional
-22843, functional
-72726, functional
-54854, functional
-30968, functional
-69494, functional
-51791, functional
-5074, functional
-72130, functional
-52105, functional
-32497, functional
-33883, functional
-30268, functional
-19481, functional
-27789, functional
-54370, functional
-46468, functional
-58566, functional
-51776, functional
-35740, functional
-54664, functional
-40415, functional
-33050, functional
-48872, functional
-43934, functional
-49017, functional
-66415, functional
-13126, functional
-56822, functional
-22422, functional
-61711, functional
-26413, functional
-44911, functional
-21144, functional
-39130, functional
-40958, functional
-63307, functional
-8310, functional
-11064, functional
-61508, functional
-74191, functional
-25876, functional
-54133, functional
-69477, functional
-6115, functional
-785, functional
-67943, functional
-39394, functional
-30512, functional
-13455, functional
-1937, functional
-4448, functional
-2302, functional
-68554, functional
-31274, functional
-59562, functional
-36209, functional
-20315, functional
-46080, functional
-11208, functional
-50813, functional
-15151, functional
-51874, functional
-51605, functional
-20591, functional
-38703, functional
-53774, functional
-63229, functional
-60627, functional
-23617, functional
-28487, functional
-59598, functional
-15977, functional
-44629, functional
-32348, functional
-32068, functional
-36564, functional
-5218, functional
-15892, functional
-10837, functional
-23246, functional
-63014, functional
-37705, functional
-23548, functional
-72782, functional
-37548, functional
-6900, functional
-51211, functional
-64036, functional
-15719, functional
-10469, functional
-9884, functional
-3819, functional
-17076, functional
-70117, functional
-8096, functional
-9259, functional
-784, functional
-3972, functional
-20285, functional
-37633, functional
-9318, functional
-12920, functional
-36730, functional
-16509, functional
-7165, functional
-42209, functional
-68517, functional
-1393, functional
-56151, functional
-36786, functional
-52010, functional
-21574, functional
-24418, functional
-42200, functional
-57237, functional
-49500, functional
-17365, functional
-39065, functional
-30818, functional
-6428, functional
-28389, functional
-11054, functional
-42399, functional
-28039, functional
-19586, functional
-62829, functional
-28070, functional
-71632, functional
-42364, functional
-49945, functional
-37715, functional
-60867, functional
-35263, functional
-50148, functional
-7559, functional
-45948, functional
-4835, functional
-66567, functional
-39879, functional
-34160, functional
-28710, functional
-14747, functional
-49910, functional
-40518, functional
-38639, functional
-46067, functional
-17383, functional
-65266, functional
-22649, functional
-23423, functional
-40246, functional
-61284, functional
-41627, functional
-39762, functional
-30340, functional
-74058, functional
-40816, functional
-39137, functional
-59321, functional
-26472, functional
-58100, functional
-3989, functional
-41901, functional
-53623, functional
-26456, functional
-6414, functional
-67718, functional
-71124, functional
-50261, functional
-67444, functional
-52574, functional
-2040, functional
-71916, functional
-46324, functional
-29104, functional
-63083, functional
-6701, functional
-37786, functional
-31659, functional
-65981, functional
-43026, functional
-54902, functional
-42831, functional
-1296, functional
-72807, functional
-31733, functional
-41000, functional
-33334, functional
-15235, functional
-21556, functional
-65758, functional
-4793, functional
-10179, functional
-4332, functional
-41840, functional
-36661, functional
-36998, functional
-11194, functional
-61779, functional
-7764, functional
-71606, functional
-63256, functional
-65095, functional
-5310, functional
-42558, functional
-15507, functional
-46020, functional
-68904, functional
-63030, functional
-12198, functional
-53650, functional
-23719, functional
-64004, functional
-43225, functional
-40419, functional
-54709, functional
-43067, functional
-15010, functional
-50331, functional
-14792, functional
-34783, functional
-67597, functional
-60580, functional
-24413, functional
-43708, functional
-69895, functional
-29907, functional
-67217, functional
-42115, functional
-56172, functional
-36211, functional
-72876, functional
-65297, functional
-19723, functional
-1189, functional
-51662, functional
-7443, functional
-13026, functional
-26575, functional
-4639, functional
-41899, functional
-37588, functional
-4861, functional
-60031, functional
-10465, functional
-66044, functional
-42075, functional
-65348, functional
-73008, functional
-42035, functional
-50989, functional
-26975, functional
-59044, functional
-6449, functional
-62796, functional
-25964, functional
-39526, functional
-72611, functional
-62982, functional
-26865, functional
-30861, functional
-27905, functional
-28204, functional
-10599, functional
-20747, functional
-71319, functional
-305, functional
-54330, functional
-35394, functional
-63677, functional
-10769, functional
-10249, functional
-1392, functional
-7491, functional
-20518, functional
-68217, functional
-63594, functional
-13008, functional
-42766, functional
-74133, functional
-21581, functional
-8139, functional
-37743, functional
-8919, functional
-7115, functional
-54298, functional
-9592, functional
-70755, functional
-1844, functional
-60204, functional
-66841, functional
-73646, functional
-29239, functional
-5648, functional
-58645, functional
-27041, functional
-70950, functional
-66241, functional
-49138, functional
-58000, functional
-10482, functional
-13681, functional
-60028, functional
-2401, functional
-25608, functional
-70404, functional
-40646, functional
-19900, functional
-15670, functional
-16314, functional
-24176, functional
-59360, functional
-30366, functional
-27550, functional
-15280, functional
-60711, functional
-21341, functional
-59255, functional
-69804, functional
-10594, functional
-73522, functional
-40401, functional
-2328, functional
-11754, functional
-25072, functional
-48292, functional
-25854, functional
-31526, functional
-48095, functional
-29357, functional
-52203, functional
-50471, functional
-57335, functional
-4284, functional
-5309, functional
-43594, functional
-3240, functional
-15472, functional
-52594, functional
-68103, functional
-30744, functional
-52855, functional
-57796, functional
-61727, functional
-12400, functional
-3638, functional
-65851, functional
-17912, functional
-34369, functional
-52185, functional
-37771, functional
-31746, functional
-49349, functional
-33233, functional
-26918, functional
-64846, functional
-34548, functional
-53558, functional
-23684, functional
-29456, functional
-29375, functional
-62504, functional
-27746, functional
-21014, functional
-55693, functional
-67462, functional
-52261, functional
-2240, functional
-16109, functional
-2189, functional
-65030, functional
-745, functional
-33958, functional
-15083, functional
-8767, functional
-50002, functional
-63065, functional
-63112, functional
-31524, functional
-3557, functional
-74110, functional
-31376, functional
-34431, functional
-11000, functional
-28431, functional
-13415, functional
-35556, functional
-10472, functional
-32532, functional
-59870, functional
-23162, functional
-7732, functional
-41077, functional
-33745, functional
-47802, functional
-58455, functional
-68941, functional
-63734, functional
-33843, functional
-60352, functional
-65427, functional
-10294, functional
-38046, functional
-38674, functional
-44240, functional
-55218, functional
-69286, functional
-68264, functional
-30064, functional
-37404, functional
-42799, functional
-5855, functional
-27429, functional
-31615, functional
-44218, functional
-25559, functional
-18220, functional
-20239, functional
-15214, functional
-35567, functional
-26785, functional
-48289, functional
-36974, functional
-30037, functional
-67453, functional
-46464, functional
-16932, functional
-60371, functional
-17088, functional
-16532, functional
-11098, functional
-20249, functional
-66432, functional
-31295, functional
-63663, functional
-33978, functional
-44130, functional
-28076, functional
-59032, functional
-3104, functional
-45180, functional
-65059, functional
-27259, functional
-28317, functional
-31501, functional
-54354, functional
-27913, functional
-12577, functional
-17595, functional
-42171, functional
-15394, functional
-43705, functional
-52434, functional
-49868, functional
-66475, functional
-20207, functional
-34946, functional
-49967, functional
-51661, functional
-67478, functional
-42218, functional
-67926, functional
-30160, functional
-33863, functional
-50704, functional
-68509, functional
-3532, functional
-60920, functional
-72758, functional
-30353, functional
-28455, functional
-2054, functional
-58488, functional
-35863, functional
-69945, functional
-58970, functional
-52976, functional
-70557, functional
-28113, functional
-5961, functional
-3764, functional
-47452, functional
-48107, functional
-6161, functional
-34022, functional
-31721, functional
-20316, functional
-20180, functional
-35568, functional
-18715, functional
-63593, functional
-58518, functional
-69862, functional
-63590, functional
-72340, functional
-21771, functional
-11739, functional
-32096, functional
-61958, functional
-16728, functional
-59424, functional
-40391, functional
-7598, functional
-2422, functional
-36127, functional
-71797, functional
-8001, functional
-18122, functional
-52110, functional
-48027, functional
-44230, functional
-49891, functional
-48109, functional
-56185, functional
-22250, functional
-73507, functional
-47091, functional
-73687, functional
-12382, functional
-43607, functional
-64968, functional
-34252, functional
-3291, functional
-37344, functional
-24265, functional
-19892, functional
-22397, functional
-15446, functional
-57454, functional
-36327, functional
-46449, functional
-7856, functional
-65440, functional
-51857, functional
-57200, functional
-62231, functional
-7143, functional
-19037, functional
-71716, functional
-6728, functional
-41559, functional
-23847, functional
-4769, functional
-33072, functional
-57095, functional
-9484, functional
-36520, functional
-57543, functional
-62979, functional
-57058, functional
-39442, functional
-31552, functional
-60004, functional
-47687, functional
-40004, functional
-67776, functional
-38249, functional
-3923, functional
-22884, functional
-9368, functional
-21443, functional
-65012, functional
-20015, functional
-8973, functional
-56361, functional
-55680, functional
-24553, functional
-41427, functional
-62520, functional
-23753, functional
-54857, functional
-15907, functional
-22917, functional
-68191, functional
-67384, functional
-10520, functional
-9147, functional
-51914, functional
-49118, functional
-12266, functional
-66407, functional
-21112, functional
-11689, functional
-64595, functional
-42904, functional
-57222, functional
-24616, functional
-60778, functional
-14566, functional
-73024, functional
-15037, functional
-43361, functional
-13492, functional
-39497, functional
-31301, functional
-20902, functional
-49256, functional
-9304, functional
-15988, functional
-10000, functional
-6571, functional
-28370, functional
-18304, functional
-40841, functional
-47146, functional
-12423, functional
-55041, functional
-8690, functional
-10244, functional
-43916, functional
-25508, functional
-44703, functional
-7989, functional
-4142, functional
-60424, functional
-72850, functional
-58764, functional
-44398, functional
-73449, functional
-45251, functional
-57918, functional
-21666, functional
-5183, functional
-61323, functional
-19842, functional
-48404, functional
-7826, functional
-56893, functional
-55018, functional
-62308, functional
-70321, functional
-2256, functional
-48113, functional
-2521, functional
-67245, functional
-50027, functional
-57438, functional
-13571, functional
-19893, functional
-41314, functional
-29685, functional
-25734, functional
-24288, functional
-29332, functional
-39464, functional
-45862, functional
-18432, functional
-56863, functional
-31605, functional
-70717, functional
-67720, functional
-70887, functional
-45273, functional
-19966, functional
-19162, functional
-37769, functional
-57097, functional
-25937, functional
-5825, functional
-48975, functional
-39429, functional
-25484, functional
-54692, functional
-46037, functional
-52222, functional
-6466, functional
-16853, functional
-58829, functional
-54824, functional
-43807, functional
-52130, functional
-10147, functional
-41450, functional
-43001, functional
-49076, functional
-42588, functional
-60626, functional
-58557, functional
-17639, functional
-44335, functional
-25841, functional
-58806, functional
-27719, functional
-39692, functional
-29466, functional
-37554, functional
-14314, functional
-2198, functional
-4247, functional
-65919, functional
-56646, functional
-25983, functional
-11009, functional
-55140, functional
-22273, functional
-11201, functional
-50550, functional
-38328, functional
-11678, functional
-71175, functional
-13051, functional
-17735, functional
-46391, functional
-66366, functional
-41106, functional
-40447, functional
-50914, functional
-50953, functional
-42905, functional
-1839, functional
-54798, functional
-42352, functional
-8114, functional
-1550, functional
-62084, functional
-2160, functional
-41131, functional
-14186, functional
-74237, functional
-33677, functional
-38813, functional
-66708, functional
-26344, functional
-1658, functional
-54296, functional
-5302, functional
-14840, functional
-35146, functional
-23032, functional
-1976, functional
-42400, functional
-14073, functional
-52065, functional
-56116, functional
-9226, functional
-39544, functional
-20867, functional
-57403, functional
-47710, functional
-71814, functional
-15012, functional
-41596, functional
-3950, functional
-39557, functional
-62219, functional
-8666, functional
-10947, functional
-9069, functional
-31042, functional
-11971, functional
-57812, functional
-153, functional
-4283, functional
-2310, functional
-29383, functional
-1629, functional
-13483, functional
-2560, functional
-37485, functional
-1595, functional
-4416, functional
-52096, functional
-45501, functional
-45900, functional
-36521, functional
-14026, functional
-42097, functional
-17795, functional
-58622, functional
-70877, functional
-20331, functional
-29729, functional
-19472, functional
-52716, functional
-12499, functional
-11144, functional
-22010, functional
-27018, functional
-57281, functional
-21943, functional
-70595, functional
-9023, functional
-43557, functional
-70947, functional
-39145, functional
-61185, functional
-29071, functional
-53506, functional
-24502, functional
-34050, functional
-23371, functional
-25327, functional
-67941, functional
-25512, functional
-74126, functional
-33558, functional
-49671, functional
-13569, functional
-2740, functional
-61741, functional
-52946, functional
-64929, functional
-13506, functional
-69437, functional
-40111, functional
-4058, functional
-2438, functional
-20158, functional
-26809, functional
-17782, functional
-39087, functional
-17246, functional
-69348, functional
-16449, functional
-72579, functional
-29608, functional
-54381, functional
-12449, functional
-23992, functional
-33967, functional
-8798, functional
-63526, functional
-61033, functional
-35275, functional
-54725, functional
-62001, functional
-7253, functional
-69282, functional
-1877, functional
-33804, functional
-63227, functional
-2457, functional
-5429, functional
-73326, functional
-6203, functional
-58956, functional
-15317, functional
-11952, functional
-5299, functional
-8457, functional
-23378, functional
-70255, functional
-44722, functional
-52402, functional
-67700, functional
-39482, functional
-71402, functional
-45201, functional
-19905, functional
-8996, functional
-68504, functional
-31886, functional
-5476, functional
-56653, functional
-57873, functional
-61526, functional
-43835, functional
-56835, functional
-71727, functional
-71055, functional
-21634, functional
-26662, functional
-67872, functional
-41257, functional
-2663, functional
-43659, functional
-40371, functional
-5416, functional
-48395, functional
-56289, functional
-1880, functional
-6084, functional
-32279, functional
-64298, functional
-45954, functional
-1475, functional
-2105, functional
-37504, functional
-65462, functional
-30583, functional
-46138, functional
-55227, functional
-72649, functional
-30772, functional
-24524, functional
-4801, functional
-67749, functional
-73015, functional
-56564, functional
-21080, functional
-28062, functional
-1980, functional
-49335, functional
-24133, functional
-15054, functional
-72929, functional
-29009, functional
-41267, functional
-41082, functional
-27897, functional
-73070, functional
-32416, functional
-26880, functional
-16503, functional
-48920, functional
-49605, functional
-25654, functional
-19884, functional
-20411, functional
-32247, functional
-61001, functional
-70147, functional
-35304, functional
-62595, functional
-46039, functional
-51421, functional
-702, functional
-47102, functional
-22955, functional
-47748, functional
-3373, functional
-11828, functional
-14039, functional
-65217, functional
-29947, functional
-7305, functional
-43782, functional
-72912, functional
-10400, functional
-35078, functional
-16678, functional
-20165, functional
-17224, functional
-30866, functional
-32286, functional
-61648, functional
-67875, functional
-72693, functional
-31739, functional
-55975, functional
-63521, functional
-2232, functional
-62868, functional
-67278, functional
-31226, functional
-14915, functional
-31803, functional
-72185, functional
-2109, functional
-3822, functional
-44327, functional
-51503, functional
-11891, functional
-48722, functional
-71146, functional
-16092, functional
-7213, functional
-25816, functional
-26409, functional
-72542, functional
-55165, functional
-31103, functional
-56991, functional
-45612, functional
-4625, functional
-1156, functional
-49431, functional
-22327, functional
-60415, functional
-61967, functional
-6337, functional
-29650, functional
-8555, functional
-6850, functional
-24993, functional
-26712, functional
-33378, functional
-16285, functional
-4806, functional
-9202, functional
-15500, functional
-67751, functional
-51383, functional
-16513, functional
-25380, functional
-64898, functional
-5940, functional
-22203, functional
-31726, functional
-8761, functional
-43909, functional
-43338, functional
-64875, functional
-35660, functional
-7916, functional
-28806, functional
-9192, functional
-12591, functional
-55996, functional
-20056, functional
-3377, functional
-30637, functional
-36869, functional
-36686, functional
-19139, functional
-9585, functional
-65751, functional
-52326, functional
-9579, functional
-68088, functional
-56733, functional
-52284, functional
-30461, functional
-66409, functional
-42001, functional
-67313, functional
-51782, functional
-27107, functional
-49310, functional
-70467, functional
-71877, functional
-15681, functional
-17149, functional
-30030, functional
-34935, functional
-35216, functional
-69335, functional
-43695, functional
-30104, functional
-14800, functional
-73717, functional
-1667, functional
-18213, functional
-73259, functional
-65525, functional
-26868, functional
-58922, functional
-24839, functional
-27865, functional
-16520, functional
-23845, functional
-65410, functional
-56275, functional
-12290, functional
-25194, functional
-9178, functional
-44039, functional
-37561, functional
-28556, functional
-59953, functional
-14609, functional
-24425, functional
-34072, functional
-28680, functional
-65556, functional
-36059, functional
-31374, functional
-23461, functional
-31647, functional
-19298, functional
-31430, functional
-10974, functional
-60015, functional
-64422, functional
-61321, functional
-55523, functional
-12811, functional
-36267, functional
-45229, functional
-19242, functional
-13692, functional
-68936, functional
-54176, functional
-19358, functional
-34509, functional
-73915, functional
-15101, functional
-55241, functional
-67987, functional
-23582, functional
-55817, functional
-36176, functional
-64147, functional
-47795, functional
-62970, functional
-25365, functional
-18565, functional
-31167, functional
-1202, functional
-21579, functional
-59956, functional
-45661, functional
-783, functional
-55100, functional
-30624, functional
-67641, functional
-65874, functional
-18494, functional
-14557, functional
-29298, functional
-74228, functional
-37251, functional
-15600, functional
-8564, functional
-57209, functional
-57154, functional
-70657, functional
-71889, functional
-12355, functional
-54356, functional
-5644, functional
-71473, functional
-2356, functional
-66959, functional
-49279, functional
-9622, functional
-43773, functional
-71709, functional
-19616, functional
-54693, functional
-43870, functional
-35050, functional
-23093, functional
-61724, functional
-24796, functional
-831, functional
-71133, functional
-10734, functional
-45946, functional
-33372, functional
-29299, functional
-72812, functional
-60388, functional
-70805, functional
-32869, functional
-41091, functional
-64530, functional
-16874, functional
-11950, functional
-38405, functional
-42855, functional
-6673, functional
-31737, functional
-69846, functional
-22363, functional
-68234, functional
-45265, functional
-16233, functional
-6068, functional
-39691, functional
-5354, functional
-923, functional
-40974, functional
-42007, functional
-70210, functional
-11988, functional
-27177, functional
-7020, functional
-32356, functional
-38725, functional
-51788, functional
-60111, functional
-39411, functional
-58002, functional
-54212, functional
-27242, functional
-74214, functional
-70245, functional
-6204, functional
-16367, functional
-32791, functional
-2624, functional
-62877, functional
-6765, functional
-5959, functional
-36264, functional
-34582, functional
-41977, functional
-59896, functional
-65939, functional
-66323, functional
-69589, functional
-34469, functional
-29870, functional
-33686, functional
-12295, functional
-39880, functional
-62089, functional
-13131, functional
-31546, functional
-30538, functional
-69581, functional
-3681, functional
-28574, functional
-16736, functional
-59312, functional
-13298, functional
-44081, functional
-23664, functional
-65732, functional
-67670, functional
-37862, functional
-43379, functional
-4242, functional
-32718, functional
-42757, functional
-69012, functional
-71692, functional
-62022, functional
-22878, functional
-19486, functional
-67036, functional
-52111, functional
-73854, functional
-14362, functional
-20253, functional
-61917, functional
-5032, functional
-30749, functional
-60910, functional
-9022, functional
-8271, functional
-12742, functional
-33892, functional
-40306, functional
-42605, functional
-51050, functional
-7059, functional
-32161, functional
-25570, functional
-1737, functional
-26688, functional
-31589, functional
-65184, functional
-47059, functional
-64803, functional
-11495, functional
-15245, functional
-27015, functional
-17375, functional
-16218, functional
-32128, functional
-52683, functional
-67265, functional
-2781, functional
-42120, functional
-16422, functional
-46217, functional
-60135, functional
-19226, functional
-49182, functional
-25442, functional
-8483, functional
-55741, functional
-53216, functional
-67647, functional
-36031, functional
-1809, functional
-13836, functional
-17760, functional
-4346, functional
-58195, functional
-3550, functional
-74004, functional
-62092, functional
-17524, functional
-36143, functional
-30385, functional
-53882, functional
-23482, functional
-24125, functional
-27971, functional
-1119, functional
-13830, functional
-60389, functional
-44051, functional
-55538, functional
-29169, functional
-46706, functional
-72018, functional
-69069, functional
-46234, functional
-49420, functional
-63916, functional
-67622, functional
-26499, functional
-229, functional
-68860, functional
-29813, functional
-44272, functional
-38192, functional
-62811, functional
-16171, functional
-27288, functional
-31773, functional
-29115, functional
-54009, functional
-26271, functional
-1246, functional
-42980, functional
-44508, functional
-60818, functional
-23121, functional
-67413, functional
-5190, functional
-17947, functional
-41611, functional
-34335, functional
-55254, functional
-18095, functional
-7860, functional
-49321, functional
-70709, functional
-24020, functional
-218, functional
-17147, functional
-63265, functional
-9699, functional
-62695, functional
-9850, functional
-44212, functional
-28385, functional
-8130, functional
-8078, functional
-25784, functional
-20501, functional
-21756, functional
-6633, functional
-1965, functional
-36371, functional
-7005, functional
-67, functional
-48687, functional
-25549, functional
-63192, functional
-42232, functional
-76, functional
-22950, functional
-66040, functional
-57056, functional
-54821, functional
-30221, functional
-31045, functional
-30962, functional
-53158, functional
-57019, functional
-43741, functional
-11199, functional
-67261, functional
-51083, functional
-9741, functional
-24640, functional
-10243, functional
-7547, functional
-38711, functional
-26730, functional
-46940, functional
-63196, functional
-58716, functional
-40179, functional
-23777, functional
-54347, functional
-74081, functional
-45247, functional
-13611, functional
-44349, functional
-16835, functional
-41062, functional
-4050, functional
-37964, functional
-1851, functional
-13878, functional
-8390, functional
-44878, functional
-46761, functional
-71457, functional
-63674, functional
-4168, functional
-65100, functional
-23995, functional
-37178, functional
-61950, functional
-61850, functional
-32545, functional
-31015, functional
-48671, functional
-5556, functional
-63927, functional
-62425, functional
-40613, functional
-62258, functional
-27889, functional
-24503, functional
-2639, functional
-37840, functional
-50431, functional
-22005, functional
-9098, functional
-23514, functional
-23327, functional
-6441, functional
-21127, functional
-10724, functional
-73834, functional
-35770, functional
-62295, functional
-1893, functional
-69120, functional
-33821, functional
-10732, functional
-18031, functional
-25883, functional
-62689, functional
-57269, functional
-46139, functional
-46663, functional
-63007, functional
-33095, functional
-27591, functional
-68026, functional
-53093, functional
-12430, functional
-16131, functional
-6705, functional
-34886, functional
-7907, functional
-42651, functional
-289, functional
-44178, functional
-34282, functional
-44904, functional
-74003, functional
-39019, functional
-15383, functional
-68018, functional
-36055, functional
-20700, functional
-71032, functional
-42098, functional
-71865, functional
-60108, functional
-18682, functional
-20981, functional
-10355, functional
-51116, functional
-60166, functional
-37728, functional
-34005, functional
-41141, functional
-46056, functional
-23592, functional
-61613, functional
-10966, functional
-4454, functional
-72297, functional
-48022, functional
-22660, functional
-34774, functional
-61259, functional
-56125, functional
-71859, functional
-27986, functional
-47668, functional
-44993, functional
-15453, functional
-46791, functional
-5665, functional
-24054, functional
-8895, functional
-46357, functional
-14397, functional
-39833, functional
-15564, functional
-34776, functional
-2120, functional
-28798, functional
-15311, functional
-38797, functional
-27116, functional
-70135, functional
-31011, functional
-36111, functional
-23019, functional
-71794, functional
-70008, functional
-7943, functional
-49762, functional
-56120, functional
-37765, functional
-31962, functional
-25992, functional
-59096, functional
-38730, functional
-23045, functional
-42092, functional
-34329, functional
-37937, functional
-15376, functional
-38395, functional
-25441, functional
-10271, functional
-21059, functional
-27899, functional
-16686, functional
-57748, functional
-8874, functional
-73250, functional
-52031, functional
-40132, functional
-29929, functional
-26999, functional
-40539, functional
-38093, functional
-12790, functional
-32574, functional
-56241, functional
-35306, functional
-59370, functional
-43623, functional
-26284, functional
-9985, functional
-48530, functional
-48464, functional
-16312, functional
-28019, functional
-50840, functional
-37819, functional
-54146, functional
-66121, functional
-42484, functional
-8091, functional
-50646, functional
-15422, functional
-19663, functional
-18907, functional
-67552, functional
-72892, functional
-60446, functional
-16993, functional
-65136, functional
-10593, functional
-3560, functional
-37961, functional
-24009, functional
-34689, functional
-49594, functional
-55046, functional
-15060, functional
-12324, functional
-30565, functional
-49465, functional
-41883, functional
-70523, functional
-32129, functional
-49999, functional
-41664, functional
-51248, functional
-70873, functional
-16224, functional
-5213, functional
-54264, functional
-46269, functional
-38553, functional
-65688, functional
-36036, functional
-1212, functional
-51810, functional
-7102, functional
-16392, functional
-62187, functional
-19461, functional
-7192, functional
-8866, functional
-40065, functional
-41586, functional
-72949, functional
-44206, functional
-32920, functional
-14569, functional
-38664, functional
-9568, functional
-4436, functional
-38585, functional
-37479, functional
-12707, functional
-48548, functional
-45859, functional
-58449, functional
-70556, functional
-42297, functional
-17194, functional
-59248, functional
-57253, functional
-32655, functional
-71529, functional
-46563, functional
-66970, functional
-65926, functional
-48243, functional
-38197, functional
-67993, functional
-14907, functional
-9414, functional
-21696, functional
-31567, functional
-3263, functional
-2947, functional
-27590, functional
-60427, functional
-34201, functional
-17767, functional
-72610, functional
-28390, functional
-59076, functional
-21534, functional
-71676, functional
-70550, functional
-64549, functional
-56615, functional
-64072, functional
-36995, functional
-34922, functional
-56629, functional
-60977, functional
-19093, functional
-59677, functional
-33421, functional
-66712, functional
-9300, functional
-72475, functional
-7704, functional
-9825, functional
-21989, functional
-71110, functional
-31543, functional
-66390, functional
-48952, functional
-60367, functional
-6671, functional
-20595, functional
-62115, functional
-66325, functional
-40615, functional
-26163, functional
-24412, functional
-41724, functional
-11139, functional
-7159, functional
-38857, functional
-8684, functional
-9291, functional
-1959, functional
-16446, functional
-50905, functional
-28595, functional
-7144, functional
-4906, functional
-28612, functional
-65128, functional
-49938, functional
-2346, functional
-43216, functional
-7450, functional
-43218, functional
-34515, functional
-30830, functional
-26517, functional
-68528, functional
-14939, functional
-15336, functional
-4957, functional
-22699, functional
-10477, functional
-22281, functional
-72397, functional
-26749, functional
-24131, functional
-18005, functional
-14746, functional
-1298, functional
-14096, functional
-4590, functional
-10105, functional
-49658, functional
-41651, functional
-724, functional
-73013, functional
-12869, functional
-50652, functional
-30993, functional
-6561, functional
-25803, functional
-40581, functional
-16339, functional
-5799, functional
-12446, functional
-18569, functional
-29349, functional
-72502, functional
-66235, functional
-45588, functional
-21085, functional
-67399, functional
-62991, functional
-72793, functional
-8582, functional
-25210, functional
-32908, functional
-62857, functional
-6070, functional
-48100, functional
-54926, functional
-1660, functional
-25859, functional
-41742, functional
-5317, functional
-40304, functional
-57926, functional
-25976, functional
-42259, functional
-53342, functional
-17145, functional
-33025, functional
-72749, functional
-31176, functional
-25678, functional
-30849, functional
-1866, functional
-34383, functional
-17813, functional
-23267, functional
-47226, functional
-38727, functional
-54067, functional
-31061, functional
-8993, functional
-11921, functional
-20474, functional
-30494, functional
-2564, functional
-57608, functional
-9808, functional
-38400, functional
-37141, functional
-74088, functional
-30646, functional
-67664, functional
-38935, functional
-70083, functional
-39303, functional
-48617, functional
-23339, functional
-25593, functional
-64542, functional
-53755, functional
-50869, functional
-61174, functional
-21912, functional
-52965, functional
-60076, functional
-2680, functional
-38869, functional
-70591, functional
-67343, functional
-22029, functional
-11571, functional
-16123, functional
-49876, functional
-53551, functional
-36815, functional
-58523, functional
-69377, functional
-10570, functional
-21427, functional
-32610, functional
-34032, functional
-17934, functional
-63621, functional
-194, functional
-62669, functional
-52373, functional
-50632, functional
-27589, functional
-38707, functional
-4990, functional
-27097, functional
-8107, functional
-25525, functional
-52919, functional
-14309, functional
-2013, functional
-31331, functional
-58247, functional
-59584, functional
-54711, functional
-69061, functional
-11954, functional
-58375, functional
-32817, functional
-67140, functional
-41868, functional
-71063, functional
-12228, functional
-12604, functional
-41186, functional
-65259, functional
-8764, functional
-66839, functional
-51190, functional
-18668, functional
-44233, functional
-69481, functional
-25316, functional
-62448, functional
-53157, functional
-2215, functional
-54646, functional
-7768, functional
-73218, functional
-22747, functional
-51529, functional
-36129, functional
-28253, functional
-48830, functional
-5208, functional
-72454, functional
-3707, functional
-64771, functional
-67784, functional
-45157, functional
-61759, functional
-12877, functional
-41510, functional
-64818, functional
-21591, functional
-24587, functional
-66845, functional
-21177, functional
-26838, functional
-33084, functional
-53973, functional
-50866, functional
-6135, functional
-35783, functional
-57745, functional
-55959, functional
-48572, functional
-55694, functional
-43955, functional
-36596, functional
-44222, functional
-7853, functional
-56986, functional
-6365, functional
-311, functional
-3530, functional
-40365, functional
-37167, functional
-59345, functional
-30173, functional
-27370, functional
-60243, functional
-46864, functional
-37605, functional
-1992, functional
-38053, functional
-71725, functional
-73394, functional
-70774, functional
-47021, functional
-17484, functional
-40714, functional
-44614, functional
-42959, functional
-39469, functional
-4554, functional
-51673, functional
-13972, functional
-65731, functional
-26470, functional
-46196, functional
-20819, functional
-2888, functional
-20578, functional
-3010, functional
-37889, functional
-71068, functional
-49696, functional
-9688, functional
-27675, functional
-22462, functional
-45537, functional
-72468, functional
-28458, functional
-69559, functional
-63866, functional
-2172, functional
-7038, functional
-72524, functional
-35868, functional
-7717, functional
-28082, functional
-18370, functional
-3209, functional
-62263, functional
-63662, functional
-52874, functional
-48426, functional
-15442, functional
-16135, functional
-48933, functional
-67829, functional
-60438, functional
-23591, functional
-4796, functional
-33048, functional
-1405, functional
-56637, functional
-73497, functional
-26913, functional
-73035, functional
-29710, functional
-20781, functional
-37474, functional
-1776, functional
-33307, functional
-36430, functional
-56074, functional
-44803, functional
-58632, functional
-24681, functional
-62824, functional
-36458, functional
-54260, functional
-74171, functional
-42420, functional
-70133, functional
-66585, functional
-44906, functional
-33119, functional
-61911, functional
-69645, functional
-34510, functional
-64291, functional
-57248, functional
-11846, functional
-36589, functional
-64038, functional
-68123, functional
-42428, functional
-72779, functional
-61144, functional
-7941, functional
-67860, functional
-31888, functional
-16488, functional
-9773, functional
-16601, functional
-5908, functional
-44070, functional
-38896, functional
-58058, functional
-46058, functional
-12402, functional
-60054, functional
-60096, functional
-15921, functional
-47913, functional
-26605, functional
-43516, functional
-46656, functional
-15680, functional
-42682, functional
-55750, functional
-42616, functional
-55980, functional
-55051, functional
-64493, functional
-47481, functional
-48145, functional
-65234, functional
-67428, functional
-14183, functional
-70212, functional
-50050, functional
-6241, functional
-14949, functional
-74183, functional
-5303, functional
-39220, functional
-54584, functional
-2658, functional
-2823, functional
-22848, functional
-59751, functional
-60466, functional
-49115, functional
-13894, functional
-22187, functional
-66590, functional
-6801, functional
-12176, functional
-53758, functional
-32837, functional
-1592, functional
-19683, functional
-64582, functional
-59588, functional
-21830, functional
-37617, functional
-37703, functional
-14187, functional
-40837, functional
-71993, functional
-33638, functional
-19265, functional
-45962, functional
-46950, functional
-13800, functional
-58125, functional
-33471, functional
-33797, functional
-19282, functional
-48139, functional
-43687, functional
-49356, functional
-56691, functional
-43660, functional
-5624, functional
-64625, functional
-49495, functional
-27657, functional
-11330, functional
-62618, functional
-9487, functional
-32553, functional
-30390, functional
-52924, functional
-15671, functional
-27949, functional
-42086, functional
-73099, functional
-12365, functional
-2833, functional
-2490, functional
-45584, functional
-19434, functional
-44763, functional
-38117, functional
-69724, functional
-51239, functional
-20343, functional
-25536, functional
-43346, functional
-71789, functional
-70079, functional
-14126, functional
-6431, functional
-5971, functional
-17143, functional
-51665, functional
-27244, functional
-40506, functional
-66550, functional
-28091, functional
-15971, functional
-36603, functional
-44413, functional
-1416, functional
-47650, functional
-25126, functional
-70207, functional
-63687, functional
-1847, functional
-42168, functional
-14603, functional
-19394, functional
-43666, functional
-48755, functional
-1021, functional
-20788, functional
-1480, functional
-43056, functional
-56554, functional
-26289, functional
-60596, functional
-18314, functional
-44145, functional
-7356, functional
-36942, functional
-47380, functional
-48942, functional
-65558, functional
-54605, functional
-5289, functional
-6791, functional
-33181, functional
-16228, functional
-22295, functional
-22048, functional
-29440, functional
-66535, functional
-2330, functional
-24126, functional
-61961, functional
-14826, functional
-12217, functional
-13016, functional
-11856, functional
-59912, functional
-24918, functional
-28675, functional
-59640, functional
-43627, functional
-19680, functional
-51689, functional
-31940, functional
-59002, functional
-39996, functional
-32363, functional
-57258, functional
-45259, functional
-73358, functional
-29138, functional
-73048, functional
-36242, functional
-44665, functional
-15351, functional
-10510, functional
-59809, functional
-23855, functional
-64560, functional
-37054, functional
-69898, functional
-40892, functional
-68631, functional
-49487, functional
-72817, functional
-68833, functional
-11420, functional
-69444, functional
-66680, functional
-1608, functional
-60973, functional
-43911, functional
-39994, functional
-53831, functional
-51756, functional
-14253, functional
-30761, functional
-46597, functional
-37507, functional
-61038, functional
-59644, functional
-11115, functional
-73188, functional
-39724, functional
-65842, functional
-44246, functional
-38470, functional
-56379, functional
-16061, functional
-63513, functional
-36835, functional
-66863, functional
-24089, functional
-63688, functional
-7455, functional
-28237, functional
-22651, functional
-20900, functional
-67745, functional
-47034, functional
-25165, functional
-1035, functional
-49253, functional
-44759, functional
-53034, functional
-37614, functional
-53386, functional
-1930, functional
-5054, functional
-59118, functional
-73744, functional
-36556, functional
-36537, functional
-23424, functional
-4114, functional
-37037, functional
-34653, functional
-65632, functional
-61056, functional
-47736, functional
-23494, functional
-50707, functional
-39696, functional
-21841, functional
-35502, functional
-28412, functional
-40156, functional
-54898, functional
-17960, functional
-59958, functional
-65679, functional
-13580, functional
-57492, functional
-70343, functional
-41412, functional
-54949, functional
-51350, functional
-11304, functional
-44323, functional
-20223, functional
-40810, functional
-24079, functional
-5791, functional
-34954, functional
-4686, functional
-55814, functional
-1748, functional
-11143, functional
-2772, functional
-25207, functional
-45339, functional
-60498, functional
-47404, functional
-33772, functional
-59433, functional
-72849, functional
-59489, functional
-46678, functional
-44863, functional
-50163, functional
-70930, functional
-59741, functional
-64802, functional
-60306, functional
-20552, functional
-6255, functional
-41446, functional
-60266, functional
-62224, functional
-18818, functional
-27991, functional
-8900, functional
-14571, functional
-62475, functional
-7778, functional
-44654, functional
-49929, functional
-26589, functional
-17893, functional
-59432, functional
-4004, functional
-38129, functional
-71452, functional
-1852, functional
-33728, functional
-5876, functional
-17543, functional
-16113, functional
-50060, functional
-59164, functional
-13715, functional
-40791, functional
-14270, functional
-11239, functional
-73779, functional
-28835, functional
-5086, functional
-38579, functional
-21383, functional
-73975, functional
-53077, functional
-21623, functional
-37587, functional
-13029, functional
-40226, functional
-17424, functional
-54043, functional
-18723, functional
-33683, functional
-12262, functional
-58850, functional
-1497, functional
-56489, functional
-73031, functional
-47407, functional
-25846, functional
-44306, functional
-58314, functional
-1905, functional
-58395, functional
-13708, functional
-1417, functional
-46351, functional
-5605, functional
-7347, functional
-45267, functional
-22319, functional
-8758, functional
-49205, functional
-9363, functional
-35277, functional
-68651, functional
-46103, functional
-32259, functional
-721, functional
-27304, functional
-36548, functional
-42639, functional
-28597, functional
-51983, functional
-55188, functional
-48865, functional
-55360, functional
-55828, functional
-66713, functional
-36845, functional
-28220, functional
-3921, functional
-48410, functional
-39751, functional
-63845, functional
-40546, functional
-64650, functional
-52537, functional
-15537, functional
-13724, functional
-23118, functional
-66214, functional
-23900, functional
-32542, functional
-15347, functional
-2340, functional
-32420, functional
-18254, functional
-44480, functional
-55387, functional
-62798, functional
-51898, functional
-63134, functional
-45184, functional
-36370, functional
-20909, functional
-50764, functional
-30707, functional
-43444, functional
-23795, functional
-47004, functional
-29250, functional
-57262, functional
-40969, functional
-59881, functional
-49185, functional
-13289, functional
-18900, functional
-2940, functional
-31329, functional
-33990, functional
-33956, functional
-5672, functional
-68791, functional
-58910, functional
-10302, functional
-4102, functional
-63088, functional
-60992, functional
-2163, functional
-5814, functional
-59649, functional
-51711, functional
-49057, functional
-72380, functional
-69099, functional
-56068, functional
-31137, functional
-34099, functional
-27527, functional
-55045, functional
-13202, functional
-26642, functional
-41700, functional
-64280, functional
-51168, functional
-23169, functional
-49542, functional
-54426, functional
-69843, functional
-46412, functional
-23871, functional
-54557, functional
-8200, functional
-16960, functional
-10055, functional
-63353, functional
-10423, functional
-68020, functional
-1692, functional
-39264, functional
-65347, functional
-23916, functional
-72275, functional
-4580, functional
-34144, functional
-31580, functional
-64215, functional
-61254, functional
-58098, functional
-18238, functional
-59475, functional
-35925, functional
-32624, functional
-16895, functional
-16944, functional
-63600, functional
-24555, functional
-32325, functional
-53372, functional
-30035, functional
-44693, functional
-33550, functional
-54679, functional
-61255, functional
-59938, functional
-8469, functional
-67662, functional
-57489, functional
-41913, functional
-43629, functional
-59629, functional
-10397, functional
-4928, functional
-33193, functional
-39502, functional
-8366, functional
-32742, functional
-63965, functional
-60321, functional
-30062, functional
-61518, functional
-38704, functional
-21311, functional
-68387, functional
-15877, functional
-14563, functional
-33311, functional
-36193, functional
-2890, functional
-42763, functional
-52258, functional
-39018, functional
-27025, functional
-64034, functional
-1422, functional
-29065, functional
-12666, functional
-34321, functional
-55955, functional
-38660, functional
-18669, functional
-33369, functional
-16021, functional
-43632, functional
-41490, functional
-31375, functional
-64527, functional
-7397, functional
-30732, functional
-73190, functional
-51779, functional
-8952, functional
-55887, functional
-67969, functional
-73559, functional
-37221, functional
-43775, functional
-32339, functional
-19160, functional
-20122, functional
-54034, functional
-50271, functional
-33493, functional
-57868, functional
-12769, functional
-9582, functional
-48144, functional
-60853, functional
-3867, functional
-70525, functional
-57366, functional
-65523, functional
-29253, functional
-69572, functional
-9559, functional
-3111, functional
-33345, functional
-57149, functional
-18769, functional
-21128, functional
-57400, functional
-25480, functional
-10487, functional
-50477, functional
-42144, functional
-6159, functional
-74080, functional
-40322, functional
-36518, functional
-18735, functional
-249, functional
-37944, functional
-61626, functional
-6586, functional
-12167, functional
-29360, functional
-22323, functional
-51807, functional
-19147, functional
-38832, functional
-30178, functional
-12516, functional
-5975, functional
-63562, functional
-26943, functional
-236, functional
-22114, functional
-30126, functional
-54452, functional
-16569, functional
-1907, functional
-68841, functional
-5926, functional
-54399, functional
-9849, functional
-58223, functional
-8284, functional
-50373, functional
-58904, functional
-64023, functional
-53243, functional
-6772, functional
-18881, functional
-46928, functional
-45442, functional
-20352, functional
-63291, functional
-30443, functional
-40942, functional
-56838, functional
-60012, functional
-30564, functional
-55170, functional
-811, functional
-18779, functional
-52450, functional
-31446, functional
-2066, functional
-38293, functional
-37326, functional
-43804, functional
-72343, functional
-40831, functional
-22302, functional
-71687, functional
-73487, functional
-57660, functional
-31320, functional
-7926, functional
-50864, functional
-72232, functional
-5637, functional
-21970, functional
-14664, functional
-48314, functional
-7393, functional
-64123, functional
-50462, functional
-66000, functional
-44105, functional
-18453, functional
-14993, functional
-32466, functional
-17790, functional
-35541, functional
-9595, functional
-68285, functional
-15936, functional
-56757, functional
-46465, functional
-32252, functional
-28765, functional
-34018, functional
-53613, functional
-25596, functional
-29743, functional
-68539, functional
-2729, functional
-56987, functional
-16188, functional
-27054, functional
-36296, functional
-8318, functional
-39520, functional
-21081, functional
-38312, functional
-56937, functional
-11204, functional
-23787, functional
-39869, functional
-36198, functional
-8819, functional
-10095, functional
-38756, functional
-2415, functional
-50440, functional
-64030, functional
-66181, functional
-35834, functional
-34839, functional
-72787, functional
-24345, functional
-47533, functional
-19018, functional
-31768, functional
-20616, functional
-10507, functional
-28896, functional
-56451, functional
-10440, functional
-37658, functional
-54069, functional
-38204, functional
-42051, functional
-40383, functional
-60815, functional
-70579, functional
-43403, functional
-24801, functional
-6560, functional
-46855, functional
-14079, functional
-10474, functional
-33479, functional
-55811, functional
-60435, functional
-16832, functional
-6746, functional
-29460, functional
-53808, functional
-7490, functional
-32216, functional
-54271, functional
-13027, functional
-73932, functional
-34723, functional
-49315, functional
-56511, functional
-40606, functional
-37467, functional
-6926, functional
-30038, functional
-35997, functional
-60573, functional
-29182, functional
-71344, functional
-37490, functional
-62807, functional
-32076, functional
-12532, functional
-3318, functional
-47645, functional
-15248, functional
-62002, functional
-49872, functional
-42280, functional
-29133, functional
-45806, functional
-33977, functional
-47482, functional
-13094, functional
-40390, functional
-24613, functional
-31738, functional
-39158, functional
-30703, functional
-51606, functional
-41996, functional
-30746, functional
-10406, functional
-5366, functional
-41116, functional
-31027, functional
-68469, functional
-5128, functional
-44354, functional
-9366, functional
-44075, functional
-44612, functional
-35178, functional
-9982, functional
-46157, functional
-65471, functional
-18873, functional
-2880, functional
-64081, functional
-57771, functional
-23908, functional
-5544, functional
-26328, functional
-12260, functional
-67215, functional
-72019, functional
-47873, functional
-672, functional
-24471, functional
-54394, functional
-72685, functional
-8868, functional
-54187, functional
-39574, functional
-31885, functional
-45929, functional
-1854, functional
-34172, functional
-24208, functional
-41247, functional
-6727, functional
-23688, functional
-70447, functional
-18127, functional
-6361, functional
-31235, functional
-56689, functional
-36989, functional
-44118, functional
-46763, functional
-23969, functional
-27727, functional
-16309, functional
-8921, functional
-25184, functional
-48861, functional
-6317, functional
-21327, functional
-34899, functional
-67347, functional
-72296, functional
-24785, functional
-14536, functional
-16103, functional
-68690, functional
-51510, functional
-22602, functional
-2103, functional
-58979, functional
-42194, functional
-8283, functional
-52305, functional
-37116, functional
-70749, functional
-58251, functional
-54975, functional
-73745, functional
-15713, functional
-53178, functional
-18638, functional
-7613, functional
-42523, functional
-62690, functional
-5241, functional
-34838, functional
-43105, functional
-16870, functional
-68180, functional
-21159, functional
-5215, functional
-29450, functional
-49624, functional
-44367, functional
-28089, functional
-36335, functional
-54786, functional
-63470, functional
-22560, functional
-68676, functional
-21330, functional
-8440, functional
-36359, functional
-1919, functional
-68728, functional
-6086, functional
-30944, functional
-46898, functional
-60106, functional
-30419, functional
-36208, functional
-10938, functional
-4291, functional
-48193, functional
-2989, functional
-66162, functional
-32789, functional
-63091, functional
-25607, functional
-26317, functional
-49009, functional
-62007, functional
-36846, functional
-58354, functional
-54481, functional
-66687, functional
-3789, functional
-23436, functional
-41794, functional
-10023, functional
-17027, functional
-35542, functional
-24558, functional
-62943, functional
-35499, functional
-37245, functional
-55443, functional
-43350, functional
-51977, functional
-25293, functional
-34897, functional
-17691, functional
-17251, functional
-13043, functional
-30308, functional
-10755, functional
-32502, functional
-2487, functional
-7900, functional
-70520, functional
-28928, functional
-69085, functional
-5879, functional
-15836, functional
-19846, functional
-73306, functional
-51373, functional
-72457, functional
-19302, functional
-30711, functional
-67162, functional
-42595, functional
-31974, functional
-51915, functional
-32852, functional
-26860, functional
-22551, functional
-65575, functional
-23445, functional
-46051, functional
-1726, functional
-67753, functional
-6667, functional
-56167, functional
-22338, functional
-55447, functional
-49096, functional
-31246, functional
-10823, functional
-73895, functional
-61644, functional
-1016, functional
-14345, functional
-45013, functional
-16414, functional
-74086, functional
-44946, functional
-63466, functional
-5550, functional
-58106, functional
-33433, functional
-37254, functional
-46491, functional
-29391, functional
-71112, functional
-59436, functional
-648, functional
-20693, functional
-68730, functional
-57694, functional
-38278, functional
-5204, functional
-47073, functional
-53450, functional
-72389, functional
-23090, functional
-44875, functional
-63539, functional
-68645, functional
-45641, functional
-27641, functional
-68486, functional
-5593, functional
-29493, functional
-40354, functional
-55175, functional
-18794, functional
-54502, functional
-43774, functional
-6538, functional
-63984, functional
-48616, functional
-33852, functional
-37261, functional
-55440, functional
-29033, functional
-29968, functional
-58986, functional
-62260, functional
-41910, functional
-69729, functional
-12150, functional
-32461, functional
-26209, functional
-43309, functional
-29974, functional
-44919, functional
-23432, functional
-41574, functional
-66243, functional
-2827, functional
-22097, functional
-4192, functional
-8451, functional
-68197, functional
-23407, functional
-46447, functional
-49381, functional
-35392, functional
-23755, functional
-22120, functional
-66346, functional
-51624, functional
-50656, functional
-9405, functional
-25586, functional
-50734, functional
-18974, functional
-6896, functional
-55084, functional
-5700, functional
-57350, functional
-50964, functional
-69702, functional
-40422, functional
-30445, functional
-35090, functional
-42145, functional
-69599, functional
-57111, functional
-19223, functional
-34116, functional
-43070, functional
-70221, functional
-30441, functional
-35531, functional
-25454, functional
-57753, functional
-50232, functional
-71601, functional
-43009, functional
-17021, functional
-8132, functional
-72977, functional
-52354, functional
-55285, functional
-55973, functional
-41837, functional
-48364, functional
-70235, functional
-14733, functional
-44186, functional
-63392, functional
-42491, functional
-21564, functional
-12192, functional
-40880, functional
-12833, functional
-72784, functional
-23984, functional
-71992, functional
-2008, functional
-29166, functional
-73983, functional
-49189, functional
-42936, functional
-70518, functional
-41933, functional
-41296, functional
-57404, functional
-22075, functional
-26452, functional
-46364, functional
-68396, functional
-40094, functional
-17820, functional
-21291, functional
-41545, functional
-36474, functional
-37999, functional
-14000, functional
-30619, functional
-68621, functional
-73918, functional
-16885, functional
-20127, functional
-44326, functional
-21586, functional
-39177, functional
-1167, functional
-40836, functional
-64027, functional
-35215, functional
-5513, functional
-3460, functional
-36427, functional
-34451, functional
-54166, functional
-73948, functional
-73006, functional
-42908, functional
-20340, functional
-37893, functional
-25520, functional
-31964, functional
-71421, functional
-10867, functional
-47818, functional
-14062, functional
-25849, functional
-37857, functional
-3967, functional
-52876, functional
-34621, functional
-60298, functional
-68617, functional
-15164, functional
-31913, functional
-64411, functional
-4894, functional
-29467, functional
-50824, functional
-30130, functional
-39959, functional
-10461, functional
-12611, functional
-54091, functional
-45380, functional
-335, functional
-44036, functional
-26564, functional
-52505, functional
-45406, functional
-47993, functional
-26772, functional
-55432, functional
-18605, functional
-54801, functional
-56448, functional
-8841, functional
-41096, functional
-57630, functional
-8426, functional
-12225, functional
-10951, functional
-8092, functional
-22937, functional
-69800, functional
-44193, functional
-25465, functional
-30952, functional
-61694, functional
-23311, functional
-15791, functional
-17615, functional
-20458, functional
-16372, functional
-56780, functional
-52862, functional
-41424, functional
-28593, functional
-3865, functional
-66624, functional
-35089, functional
-26588, functional
-44972, functional
-10591, functional
-48017, functional
-53246, functional
-37913, functional
-857, functional
-52383, functional
-62656, functional
-46360, functional
-37647, functional
-10194, functional
-69652, functional
-65580, functional
-45079, functional
-32106, functional
-33276, functional
-57066, functional
-5362, functional
-51636, functional
-65838, functional
-66394, functional
-13855, functional
-46008, functional
-9289, functional
-11287, functional
-37791, functional
-18325, functional
-2323, functional
-13747, functional
-22107, functional
-41474, functional
-7463, functional
-70006, functional
-31273, functional
-22944, functional
-30012, functional
-41564, functional
-2992, functional
-9630, functional
-28648, functional
-52901, functional
-21156, functional
-56970, functional
-17937, functional
-51485, functional
-59919, functional
-58246, functional
-11209, functional
-67890, functional
-12375, functional
-45599, functional
-68964, functional
-40674, functional
-15697, functional
-52120, functional
-54464, functional
-66247, functional
-62051, functional
-72548, functional
-50636, functional
-7505, functional
-21378, functional
-69432, functional
-24606, functional
-5649, functional
-7675, functional
-19666, functional
-40940, functional
-35869, functional
-27689, functional
-34187, functional
-59055, functional
-70466, functional
-51668, functional
-22218, functional
-71813, functional
-10693, functional
-16936, functional
-28572, functional
-47647, functional
-15800, functional
-440, functional
-64841, functional
-62348, functional
-4266, functional
-9762, functional
-58627, functional
-1985, functional
-72459, functional
-54958, functional
-57144, functional
-37626, functional
-53517, functional
-14710, functional
-15471, functional
-24, functional
-73276, functional
-67018, functional
-7362, functional
-51194, functional
-72153, functional
-39261, functional
-46985, functional
-41066, functional
-71552, functional
-45675, functional
-63432, functional
-41504, functional
-36719, functional
-21837, functional
-36654, functional
-7656, functional
-69388, functional
-19545, functional
-59196, functional
-35252, functional
-61713, functional
-53188, functional
-69415, functional
-19647, functional
-17952, functional
-2864, functional
-58641, functional
-37656, functional
-52674, functional
-37577, functional
-5896, functional
-6818, functional
-31990, functional
-13560, functional
-38564, functional
-8622, functional
-26643, functional
-70226, functional
-46889, functional
-67525, functional
-17181, functional
-9172, functional
-73085, functional
-55029, functional
-26475, functional
-39912, functional
-1567, functional
-14929, functional
-55382, functional
-18785, functional
-33254, functional
-28679, functional
-11640, functional
-59600, functional
-28093, functional
-8345, functional
-61843, functional
-17967, functional
-44932, functional
-29224, functional
-5133, functional
-10970, functional
-30313, functional
-50013, functional
-19889, functional
-17925, functional
-63325, functional
-64305, functional
-40692, functional
-16730, functional
-70247, functional
-61222, functional
-37778, functional
-69172, functional
-9660, functional
-28626, functional
-19380, functional
-60891, functional
-63135, functional
-7824, functional
-39050, functional
-42417, functional
-70019, functional
-60539, functional
-4595, functional
-54807, functional
-41394, functional
-59621, functional
-2428, functional
-60348, functional
-16608, functional
-72138, functional
-43177, functional
-39927, functional
-67238, functional
-45663, functional
-28255, functional
-23298, functional
-4360, functional
-58865, functional
-9257, functional
-51250, functional
-6338, functional
-20306, functional
-2343, functional
-48441, functional
-53086, functional
-68127, functional
-64684, functional
-37118, functional
-58155, functional
-70348, functional
-46742, functional
-17628, functional
-50959, functional
-38323, functional
-22259, functional
-29212, functional
-2494, functional
-10756, functional
-56261, functional
-65848, functional
-12540, functional
-15529, functional
-45532, functional
-70005, functional
-70342, functional
-65819, functional
-4, functional
-67619, functional
-3306, functional
-269, functional
-70706, functional
-48260, functional
-54471, functional
-50510, functional
-2909, functional
-5386, functional
-29810, functional
-57794, functional
-12274, functional
-55571, functional
-49476, functional
-72960, functional
-59696, functional
-18722, functional
-64896, functional
-48789, functional
-40366, functional
-53095, functional
-73468, functional
-15450, functional
-14675, functional
-52803, functional
-73157, functional
-19125, functional
-11935, functional
-1598, functional
-44092, functional
-9489, functional
-14408, functional
-12918, functional
-52333, functional
-51743, functional
-66831, functional
-479, functional
-54719, functional
-4002, functional
-19924, functional
-46915, functional
-47804, functional
-47143, functional
-24900, functional
-60146, functional
-19034, functional
-23569, functional
-24137, functional
-50501, functional
-25077, functional
-47473, functional
-28261, functional
-57813, functional
-50176, functional
-24299, functional
-68702, functional
-15352, functional
-20117, functional
-1080, functional
-60966, functional
-39479, functional
-4706, functional
-41859, functional
-36011, functional
-72479, functional
-40199, functional
-67887, functional
-47158, functional
-66056, functional
-37028, functional
-14262, functional
-67505, functional
-5771, functional
-39925, functional
-52211, functional
-55371, functional
-34493, functional
-5627, functional
-59526, functional
-18090, functional
-13431, functional
-14775, functional
-47826, functional
-39943, functional
-28001, functional
-15541, functional
-33725, functional
-7284, functional
-40609, functional
-74117, functional
-31601, functional
-41445, functional
-13349, functional
-63914, functional
-29758, functional
-10681, functional
-5635, functional
-44685, functional
-20875, functional
-32189, functional
-51313, functional
-13420, functional
-22756, functional
-49796, functional
-28137, functional
-3275, functional
-32698, functional
-66587, functional
-59700, functional
-53444, functional
-23165, functional
-48038, functional
-52249, functional
-62417, functional
-10781, functional
-63201, functional
-30489, functional
-16515, functional
-23305, functional
-1908, functional
-34131, functional
-26336, functional
-9449, functional
-870, functional
-52756, functional
-21760, functional
-25193, functional
-24254, functional
-6410, functional
-64002, functional
-12749, functional
-60816, functional
-73223, functional
-31281, functional
-70142, functional
-65291, functional
-17115, functional
-9866, functional
-8749, functional
-69573, functional
-16650, functional
-51980, functional
-11990, functional
-45836, functional
-46782, functional
-70403, functional
-69170, functional
-23348, functional
-43887, functional
-8844, functional
-22724, functional
-44771, functional
-11464, functional
-28996, functional
-12342, functional
-12777, functional
-59968, functional
-55419, functional
-57558, functional
-26144, functional
-7548, functional
-40297, functional
-3091, functional
-15072, functional
-66519, functional
-41738, functional
-35224, functional
-10728, functional
-12891, functional
-50519, functional
-51502, functional
-2324, functional
-38343, functional
-9818, functional
-60877, functional
-68011, functional
-20717, functional
-15027, functional
-36534, functional
-35296, functional
-34969, functional
-54327, functional
-310, functional
-39908, functional
-25349, functional
-69336, functional
-29423, functional
-21401, functional
-28482, functional
-72964, functional
-9032, functional
-14261, functional
-588, functional
-20943, functional
-2549, functional
-61478, functional
-50031, functional
-1609, functional
-12123, functional
-34421, functional
-13107, functional
-40449, functional
-46407, functional
-542, functional
-34151, functional
-48130, functional
-55016, functional
-10954, functional
-10727, functional
-36393, functional
-58307, functional
-2918, functional
-33426, functional
-50993, functional
-29775, functional
-43901, functional
-33705, functional
-31326, functional
-54225, functional
-11533, functional
-30874, functional
-42638, functional
-73776, functional
-50241, functional
-51643, functional
-69021, functional
-53582, functional
-22266, functional
-62804, functional
-35654, functional
-52273, functional
-51611, functional
-2771, functional
-46818, functional
-46605, functional
-30414, functional
-12447, functional
-40757, functional
-9658, functional
-16880, functional
-47278, functional
-74001, functional
-10444, functional
-73692, functional
-19039, functional
-44549, functional
-71508, functional
-69498, functional
-36559, functional
-37451, functional
-7737, functional
-19619, functional
-54835, functional
-59777, functional
-52148, functional
-25621, functional
-63878, functional
-53985, functional
-61527, functional
-17896, functional
-33664, functional
-30841, functional
-42325, functional
-32775, functional
-32034, functional
-14167, functional
-5579, functional
-47150, functional
-17566, functional
-56620, functional
-7805, functional
-74091, functional
-31903, functional
-67949, functional
-7532, functional
-65004, functional
-52729, functional
-54041, functional
-10110, functional
-14294, functional
-63133, functional
-53531, functional
-64294, functional
-30442, functional
-73302, functional
-48658, functional
-287, functional
-19764, functional
-63714, functional
-45861, functional
-10595, functional
-8081, functional
-22312, functional
-33766, functional
-4630, functional
-20601, functional
-41349, functional
-39866, functional
-13903, functional
-26034, functional
-57090, functional
-7731, functional
-35510, functional
-11797, functional
-25236, functional
-58750, functional
-18427, functional
-17966, functional
-9750, functional
-48976, functional
-20139, functional
-801, functional
-30699, functional
-6797, functional
-67333, functional
-1557, functional
-433, functional
-60762, functional
-65482, functional
-50183, functional
-7036, functional
-47189, functional
-65866, functional
-73821, functional
-69010, functional
-27266, functional
-40188, functional
-47311, functional
-26528, functional
-18491, functional
-34549, functional
-1263, functional
-13090, functional
-58699, functional
-17721, functional
-69683, functional
-65806, functional
-23696, functional
-27449, functional
-64641, functional
-68113, functional
-50007, functional
-55868, functional
-45479, functional
-23381, functional
-5077, functional
-3219, functional
-15592, functional
-60955, functional
-2716, functional
-46127, functional
-25061, functional
-8293, functional
-8567, functional
-44019, functional
-54003, functional
-70526, functional
-36336, functional
-69189, functional
-46204, functional
-15587, functional
-29462, functional
-3397, functional
-62555, functional
-16795, functional
-27943, functional
-23051, functional
-33287, functional
-4006, functional
-66626, functional
-2674, functional
-68149, functional
-2742, functional
-28673, functional
-55683, functional
-31971, functional
-4674, functional
-31062, functional
-23768, functional
-56294, functional
-30151, functional
-20509, functional
-67367, functional
-62497, functional
-20170, functional
-23523, functional
-2902, functional
-4122, functional
-26437, functional
-25152, functional
-7635, functional
-58747, functional
-37354, functional
-21832, functional
-61631, functional
-30405, functional
-10028, functional
-73607, functional
-31644, functional
-21161, functional
-71923, functional
-8765, functional
-67777, functional
-64061, functional
-57778, functional
-19912, functional
-20722, functional
-32747, functional
-39408, functional
-10896, functional
-35197, functional
-20267, functional
-54532, functional
-61780, functional
-38535, functional
-46798, functional
-48089, functional
-28471, functional
-48959, functional
-40787, functional
-13631, functional
-15608, functional
-65601, functional
-33299, functional
-15401, functional
-30378, functional
-43182, functional
-34808, functional
-4267, functional
-11284, functional
-33021, functional
-29838, functional
-16544, functional
-7169, functional
-60033, functional
-51333, functional
-50576, functional
-39163, functional
-50514, functional
-18874, functional
-36451, functional
-38000, functional
-73440, functional
-61955, functional
-13897, functional
-14155, functional
-34325, functional
-72982, functional
-57204, functional
-42808, functional
-57089, functional
-44213, functional
-18047, functional
-11720, functional
-72411, functional
-13444, functional
-20310, functional
-9620, functional
-72687, functional
-53155, functional
-5518, functional
-64237, functional
-34931, functional
-55055, functional
-7198, functional
-69123, functional
-67922, functional
-73180, functional
-54797, functional
-64831, functional
-48974, functional
-28788, functional
-69380, functional
-14229, functional
-36629, functional
-47027, functional
-47856, functional
-22110, functional
-21460, functional
-73576, functional
-42261, functional
-27142, functional
-39531, functional
-63577, functional
-46567, functional
-40926, functional
-53306, functional
-50919, functional
-20402, functional
-38, functional
-25665, functional
-30109, functional
-26486, functional
-47494, functional
-23346, functional
-21196, functional
-6233, functional
-38850, functional
-72267, functional
-19978, functional
-1865, functional
-61406, functional
-44025, functional
-38987, functional
-72651, functional
-29403, functional
-36546, functional
-32605, functional
-52147, functional
-32828, functional
-51699, functional
-47649, functional
-28672, functional
-60870, functional
-3669, functional
-20442, functional
-7468, functional
-67226, functional
-41810, functional
-9954, functional
-61610, functional
-69505, functional
-65147, functional
-30848, functional
-11390, functional
-15503, functional
-22249, functional
-57551, functional
-21817, functional
-62885, functional
-66930, functional
-36673, functional
-65269, functional
-52569, functional
-45484, functional
-68688, functional
-54222, functional
-30908, functional
-10192, functional
-41979, functional
-8205, functional
-46091, functional
-32475, functional
-48928, functional
-64483, functional
-16030, functional
-16596, functional
-30435, functional
-54056, functional
-7960, functional
-53081, functional
-27223, functional
-12265, functional
-8175, functional
-50861, functional
-4403, functional
-42673, functional
-15026, functional
-46047, functional
-8862, functional
-33382, functional
-49105, functional
-22909, functional
-18143, functional
-32205, functional
-72774, functional
-36705, functional
-21734, functional
-21193, functional
-58974, functional
-23651, functional
-3038, functional
-62572, functional
-69973, functional
-44678, functional
-61195, functional
-43464, functional
-58427, functional
-74025, functional
-53592, functional
-10809, functional
-44966, functional
-64654, functional
-54763, functional
-66880, functional
-61334, functional
-68160, functional
-54728, functional
-69900, functional
-36637, functional
-6400, functional
-27938, functional
-58340, functional
-20295, functional
-11715, functional
-57401, functional
-3757, functional
-1197, functional
-25262, functional
-6773, functional
-58676, functional
-1522, functional
-65725, functional
-7972, functional
-36466, functional
-52834, functional
-27473, functional
-56471, functional
-1716, functional
-45595, functional
-49187, functional
-72823, functional
-47138, functional
-65108, functional
-48855, functional
-51686, functional
-9123, functional
-66997, functional
-9812, functional
-72522, functional
-30289, functional
-48238, functional
-53114, functional
-15112, functional
-45826, functional
-33355, functional
-67481, functional
-49015, functional
-52194, functional
-23782, functional
-47833, functional
-2856, functional
-39859, functional
-51517, functional
-65065, functional
-34790, functional
-2239, functional
-53921, functional
-12782, functional
-5590, functional
-29984, functional
-65868, functional
-10122, functional
-30597, functional
-45792, functional
-35122, functional
-73793, functional
-63426, functional
-22482, functional
-66996, functional
-70673, functional
-27852, functional
-35175, functional
-50746, functional
-1037, functional
-60889, functional
-57384, functional
-64522, functional
-3954, functional
-50899, functional
-56567, functional
-58975, functional
-14666, functional
-25168, functional
-12337, functional
-12425, functional
-37916, functional
-18044, functional
-58793, functional
-42614, functional
-25025, functional
-36026, functional
-10691, functional
-20729, functional
-72190, functional
-30704, functional
-59819, functional
-265, functional
-55441, functional
-52040, functional
-55863, functional
-11255, functional
-21624, functional
-10449, functional
-59865, functional
-66545, functional
-43759, functional
-31658, functional
-21286, functional
-39199, functional
-50695, functional
-34732, functional
-22825, functional
-52867, functional
-64310, functional
-51490, functional
-66529, functional
-49778, functional
-64447, functional
-49881, functional
-48796, functional
-26898, functional
-11408, functional
-18089, functional
-56687, functional
-39280, functional
-44569, functional
-28910, functional
-54703, functional
-20202, functional
-16679, functional
-8739, functional
-64172, functional
-59814, functional
-41925, functional
-45238, functional
-17176, functional
-45002, functional
-74094, functional
-46153, functional
-73367, functional
-5927, functional
-23119, functional
-61046, functional
-1633, functional
-33826, functional
-24907, functional
-53343, functional
-73010, functional
-54941, functional
-12618, functional
-62046, functional
-60645, functional
-48340, functional
-72683, functional
-49131, functional
-68748, functional
-14861, functional
-36569, functional
-61273, functional
-70027, functional
-31953, functional
-6723, functional
-66095, functional
-53906, functional
-16380, functional
-15594, functional
-47450, functional
-28963, functional
-18577, functional
-51816, functional
-13077, functional
-69307, functional
-37590, functional
-21660, functional
-14006, functional
-20198, functional
-22757, functional
-59346, functional
-49389, functional
-61180, functional
-32204, functional
-18227, functional
-2971, functional
-13594, functional
-31211, functional
-70182, functional
-32795, functional
-24102, functional
-25008, functional
-55761, functional
-69182, functional
-36439, functional
-63942, functional
-62242, functional
-10495, functional
-2390, functional
-28486, functional
-39068, functional
-24077, functional
-68366, functional
-39867, functional
-54237, functional
-20366, functional
-62370, functional
-1759, functional
-28659, functional
-2313, functional
-35455, functional
-67894, functional
-52446, functional
-62905, functional
-41383, functional
-18949, functional
-57579, functional
-2503, functional
-25001, functional
-29404, functional
-62400, functional
-69771, functional
-24359, functional
-51785, functional
-7543, functional
-67686, functional
-45359, functional
-33551, functional
-10806, functional
-57044, functional
-22050, functional
-73816, functional
-53227, functional
-3599, functional
-31588, functional
-28588, functional
-22964, functional
-49395, functional
-29492, functional
-2076, functional
-53407, functional
-10577, functional
-22367, functional
-71915, functional
-51405, functional
-47950, functional
-47742, functional
-52448, functional
-50972, functional
-25786, functional
-66204, functional
-41905, functional
-33666, functional
-54839, functional
-61477, functional
-57406, functional
-18462, functional
-39914, functional
-3457, functional
-40978, functional
-18602, functional
-54620, functional
-33918, functional
-225, functional
-38851, functional
-60193, functional
-61862, functional
-43884, functional
-71806, functional
-8083, functional
-1240, functional
-15636, functional
-44682, functional
-58245, functional
-15664, functional
-61594, functional
-36760, functional
-21497, functional
-19225, functional
-72306, functional
-29886, functional
-30502, functional
-50692, functional
-17232, functional
-49467, functional
-60871, functional
-21452, functional
-22737, functional
-9275, functional
-12580, functional
-32992, functional
-54155, functional
-67397, functional
-24999, functional
-24053, functional
-28746, functional
-65438, functional
-14522, functional
-12800, functional
-69345, functional
-5342, functional
-42378, functional
-40992, functional
-55362, functional
-30890, functional
-50504, functional
-39144, functional
-25651, functional
-66969, functional
-55005, functional
-69292, functional
-72563, functional
-62111, functional
-13485, functional
-11341, functional
-34762, functional
-52409, functional
-27108, functional
-63123, functional
-73494, functional
-32180, functional
-27278, functional
-37782, functional
-61102, functional
-3995, functional
-37291, functional
-14829, functional
-53089, functional
-35991, functional
-10347, functional
-68052, functional
-2719, functional
-19923, functional
-13602, functional
-71943, functional
-60738, functional
-41308, functional
-28473, functional
-4156, functional
-16205, functional
-72208, functional
-15219, functional
-19549, functional
-69713, functional
-6995, functional
-34715, functional
-35762, functional
-51488, functional
-33117, functional
-1950, functional
-42949, functional
-42136, functional
-12715, functional
-38849, functional
-8496, functional
-69267, functional
-55894, functional
-13076, functional
-39977, functional
-14887, functional
-44839, functional
-45767, functional
-51579, functional
-68229, functional
-26258, functional
-40726, functional
-23576, functional
-2679, functional
-17355, functional
-57361, functional
-54196, functional
-65506, functional
-14968, functional
-64574, functional
-72720, functional
-29340, functional
-8226, functional
-57549, functional
-33097, functional
-67910, functional
-51623, functional
-38434, functional
-35805, functional
-7028, functional
-39384, functional
-13586, functional
-33714, functional
-16058, functional
-56694, functional
-68391, functional
-67149, functional
-64749, functional
-23238, functional
-24864, functional
-57698, functional
-60854, functional
-25353, functional
-7976, functional
-37114, functional
-16452, functional
-654, functional
-56781, functional
-54499, functional
-66075, functional
-47885, functional
-59766, functional
-19414, functional
-42730, functional
-57613, functional
-48136, functional
-58452, functional
-23497, functional
-73568, functional
-47992, functional
-44146, functional
-35009, functional
-73237, functional
-56964, functional
-21215, functional
-16241, functional
-35709, functional
-26310, functional
-58327, functional
-17222, functional
-9270, functional
-14736, functional
-49734, functional
-25843, functional
-53193, functional
-46680, functional
-2938, functional
-26513, functional
-44677, functional
-27640, functional
-32643, functional
-64490, functional
-51125, functional
-29485, functional
-18743, functional
-70823, functional
-61015, functional
-42539, functional
-37553, functional
-41288, functional
-31613, functional
-40894, functional
-10694, functional
-25030, functional
-67065, functional
-49502, functional
-43261, functional
-64653, functional
-33449, functional
-48605, functional
-65355, functional
-24964, functional
-74128, functional
-55842, functional
-66176, functional
-41752, functional
-57345, functional
-55304, functional
-13396, functional
-19887, functional
-14108, functional
-13246, functional
-46583, functional
-54401, functional
-65261, functional
-17032, functional
-18140, functional
-43207, functional
-43945, functional
-69236, functional
-23060, functional
-60525, functional
-23491, functional
-42454, functional
-69842, functional
-36646, functional
-17118, functional
-27247, functional
-22030, functional
-30342, functional
-20592, functional
-54625, functional
-27149, functional
-74064, functional
-17159, functional
-24377, functional
-41701, functional
-58238, functional
-65950, functional
-5578, functional
-13247, functional
-48180, functional
-67424, functional
-42455, functional
-2627, functional
-34427, functional
-67846, functional
-25999, functional
-37180, functional
-34795, functional
-41579, functional
-46231, functional
-41239, functional
-57524, functional
-61485, functional
-33906, functional
-15730, functional
-56049, functional
-9389, functional
-3984, functional
-37838, functional
-61268, functional
-50863, functional
-62964, functional
-28303, functional
-59933, functional
-32806, functional
-4301, functional
-45899, functional
-12621, functional
-22826, functional
-73560, functional
-67405, functional
-20885, functional
-20415, functional
-63267, functional
-13555, functional
-4547, functional
-12663, functional
-38741, functional
-61715, functional
-13414, functional
-9987, functional
-63783, functional
-18019, functional
-38755, functional
-72606, functional
-25845, functional
-35550, functional
-38200, functional
-68875, functional
-43427, functional
-41655, functional
-13163, functional
-10376, functional
-21343, functional
-28085, functional
-71576, functional
-71584, functional
-23905, functional
-28560, functional
-65853, functional
-39918, functional
-27164, functional
-60056, functional
-3734, functional
-50683, functional
-63707, functional
-22475, functional
-49324, functional
-6438, functional
-68211, functional
-58890, functional
-7348, functional
-55857, functional
-17231, functional
-24598, functional
-45601, functional
-48927, functional
-68220, functional
-3495, functional
-37912, functional
-65416, functional
-14366, functional
-12648, functional
-4799, functional
-9527, functional
-15919, functional
-5079, functional
-28160, functional
-71021, functional
-32602, functional
-24755, functional
-16476, functional
-73592, functional
-39513, functional
-48481, functional
-11133, functional
-26691, functional
-21866, functional
-70250, functional
-21792, functional
-49873, functional
-27468, functional
-60616, functional
-23827, functional
-65371, functional
-21077, functional
-50995, functional
-11539, functional
-16719, functional
-57789, functional
-63934, functional
-24298, functional
-15145, functional
-57364, functional
-20091, functional
-14715, functional
-66067, functional
-11884, functional
-46301, functional
-43312, functional
-63702, functional
-30636, functional
-10572, functional
-5332, functional
-5768, functional
-34367, functional
-9191, functional
-1530, functional
-22152, functional
-69502, functional
-67161, functional
-72747, functional
-39118, functional
-59658, functional
-37171, functional
-42303, functional
-12692, functional
-51328, functional
-41716, functional
-59242, functional
-5950, functional
-13770, functional
-65449, functional
-69673, functional
-72017, functional
-696, functional
-10917, functional
-21769, functional
-50315, functional
-571, functional
-32447, functional
-5598, functional
-23902, functional
-44587, functional
-15978, functional
-66549, functional
-11713, functional
-8340, functional
-20618, functional
-42933, functional
-27454, functional
-34581, functional
-64881, functional
-44013, functional
-36695, functional
-70730, functional
-25470, functional
-11802, functional
-59149, functional
-41829, functional
-66302, functional
-13679, functional
-10615, functional
-13351, functional
-57073, functional
-61024, functional
-58503, functional
-10547, functional
-34956, functional
-14153, functional
-70246, functional
-57885, functional
-4974, functional
-60505, functional
-7053, functional
-14327, functional
-31649, functional
-49440, functional
-1170, functional
-72790, functional
-50526, functional
-67498, functional
-71958, functional
-52297, functional
-34993, functional
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
